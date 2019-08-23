@@ -1,0 +1,29 @@
+# 使用163镜像源
+
+'''
+deb http://mirrors.163.com/debian/ stretch main non-free contrib
+deb http://mirrors.163.com/debian/ stretch-updates main non-free contrib
+deb http://mirrors.163.com/debian/ stretch-backports main non-free contrib
+deb-src http://mirrors.163.com/debian/ stretch main non-free contrib
+deb-src http://mirrors.163.com/debian/ stretch-updates main non-free contrib
+deb-src http://mirrors.163.com/debian/ stretch-backports main non-free contrib
+deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
+deb-src http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
+'''
+
+# GPT 分区表
+
+'''
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1              64            8063   3.9 MiB     0700  loader1
+   2           16384           24575   4.0 MiB     0700  loader2
+   3           24576           32767   4.0 MiB     0700  trust
+   4           32768          262143   112.0 MiB   0700  boot
+   5          262144        15613918   7.3 GiB     8300  rootfs
+
+
+'''
+
+# bootarg
+
+修改bootarg rootfs 为启动分区
