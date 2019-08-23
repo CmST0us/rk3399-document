@@ -1,0 +1,2757 @@
+    1  vi .zshrc
+    2  vi /etc/default/grub
+    3  sudo vi /etc/default/grub
+    4  sudo apt-get install gnome-shell-extensions
+    5  sudo apt
+    6  sudo apt install
+    7  vi clion.txt
+    8  cd /usr/share/fonts
+    9  ls
+   10  cd opentype
+   11  ls
+   12  cd //
+   13  cd /usr/share/fonts
+   14  ls
+   15  sudo cp -r SourceCodePro /usr/share/fonts
+   16  sudo mkfontdir
+   17  ls
+   18  sudo rm fonts.dir
+   19  cd /usr/share/fonts
+   20  ls
+   21  cd SourceCodePro
+   22  ls
+   23  chmod -R 644 *
+   24  sudo chmod -R 644 *
+   25  sudo mkfontscale
+   26  sudo mkfontdir
+   27  sudo fc-cache -fv
+   28  dconf
+   29  sudo apt-get install   gnome-shell-extension-dashtodock
+   30  gnome-tweaks
+   31  apt search shadowsocks
+   32  sudo apt install shadowsocks-libev
+   33  sudo apt install fonts-powerline
+   34  ./clion.sh
+   35  sudo apt install cmake gcc
+   36  ss-local
+   37  ss-manager
+   38  ss-redir
+   39  ss-tunnel
+   40  ss-tunnel -s vpn.eric3u.xyz -p 12005 -m aes-256-cfb -k "Iamfog+1s"
+   41  ss-tunnel -s "vpn.eric3u.xyz" -p 12005 -m "aes-256-cfb" -k "Iamfog+1s" -l 1080
+   42  ss-tunnel -s "vpn.eric3u.xyz" -p 12005 -l 1080 -k Iamfog+1s -m "aes-256-cfb"
+   43  ss-tunnel -s "vpn.eric3u.xyz" -p 12005 -l 1080 -k Iamfog+1s -m aes-256-cfb
+   44  sudo ss-tunnel -s vpn.eric3u.xyz -p 12005 -l 1080 -k Iamfog+1s -m aes-256-cfb
+   45  ss-nat
+   46  man shadowsocks-libev
+   47  sudo vi /etc/shadowsocks-libev/config.json 
+   48  ss-tunnel
+   49  ss-local
+   50  ss-redir 
+   51  ss-nat
+   52  _ifconfig
+   53  ip
+   54  ip link 
+   55  apt search ipconfig
+   56  apt search ifconfig
+   57  sudo apt install net-tools
+   58  ping
+   59  sudo apt uninstall net-tools
+   60  sudo apt remove net-tools
+   61  sudo apt install inetutils-tools
+   62  ifconfig
+   63  ifconfig\t
+   64  bash
+   65  sudo apt remove inetutils-tools 
+   66  sudo apt install net-tools
+   67  ifconfig
+   68  apt search qt
+   69  apt install qt5-default
+   70  sudo apt install qt5-default
+   71  ls
+   72  mkdir Project
+   73  cd Project
+   74  ls
+   75  git clone https://github.com/CmST0us/SocketKit
+   76  git clone https://github.com/CmST0us/SocketKit --recursive
+   77  ls
+   78  cd SocketKit
+   79  l
+   80  git branch
+   81  cd vendor
+   82  l
+   83  cd ..
+   84  ls
+   85  cd ..
+   86  ls
+   87  cd SocketKit
+   88  ls
+   89  ..
+   90  sudo apt remove fonts-powerline
+   91  sudo apt install qtcreator
+   92  apt search opencv
+   93  apt search libopencv-dev
+   94  ls
+   95  ss-local
+   96  ss-local -h
+   97  ss-nat
+   98  ping vpn.eric3u.xyz
+   99  ifconfig
+  100  ss-nat -s 52.194.105.110 -l 1080 -I wlp3s0
+  101  sudo ss-nat -s 52.194.105.110 -l 1080 -I wlp3s0
+  102  apt search ipset
+  103  sudo apt install ipset
+  104  sudo ss-nat -s 52.194.105.110 -l 1080 -I wlp3s0
+  105  sudo ss-nat 
+  106  sudo ss-nat -f
+  107  ss-manager
+  108  sudo ss-local
+  109  sudo ss-local -h
+  110  sudo ss-local -v
+  111  sudo ss-local -V
+  112  man shadowsocks-libev
+  113  ss-redir -h
+  114  ss-redir 
+  115  sudo ss-redir 
+  116  ./install.sh
+  117  sudo apt install libopencv-dev
+  118  cd
+  119  ls
+  120  cd Project
+  121  l
+  122  cd SocketKit
+  123  ..
+  124  ./webstorm.sh
+  125  dpkg -i netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb
+  126  sudo dpkg -i netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb
+  127  curl -sLf https://spacevim.org/cn/install.sh | bash
+  128  vim
+  129  dkpg -L libopencv
+  130  dpkg -L libopencv-dev
+  131  dpkg -L libopencv-core3.2:amd64
+  132  dpkg -L opencv-data 
+  133  apt search opencv
+  134  vim
+  135  sudo dpkg -i netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb
+  136  ls /dev/video0
+  137  ls
+  138  gcc -o main -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_legacy -lopencv_ml -lpthread main.cpp
+  139  gcc -o main -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_ml -lpthread main.cpp
+  140  gcc -o main -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_ml -lopencv_videoio -lpthread main.cpp
+  141  cd /usr/lib/
+  142  ls
+  143  cd ..
+  144  ls
+  145  cd local
+  146  ls
+  147  cd lib
+  148  ls
+  149  cd ..
+  150  cd share
+  151  ls
+  152  dpkg -L libopencv-dev
+  153  dpkg -L libopencv-core-dev:amd64
+  154  cd /usr/lib/x86_64-linux-gnu/
+  155  opencv_version
+  156  opencv_visualisation
+  157  opencv_interactive-calibration
+  158  v
+  159  d
+  160  r
+  161  d
+  162  opencv_interactive-calibration
+  163  opencv_interactive-calibration -h
+  164  opencv_interactive-calibration --help
+  165  opencv_interactive-calibration 
+  166  opencv_createsamples
+  167  ./pycharm.sh
+  168  opencv_interactive-calibration 
+  169  vim
+  170  ls /dev/video2
+  171  dmesg
+  172  ls /dev/video2
+  173  dmesg
+  174  ls /dev/video3
+  175  apt search uvc
+  176  lsmod
+  177  lsmod | grep uvc
+  178  ls /dev/video3
+  179  ls /dev/video1
+  180  vim
+  181  vimtutor
+  182  vim
+  183  vimtutor
+  184  sudo vim /etc/default/grub
+  185  sudo vim /boot/grub/grub.cfg
+  186  sudo update-grub2
+  187  Project
+  188  ls
+  189  git clone https://github.com/CmST0us/QtBliLiveDanmaku.git --recursive
+  190  ls
+  191  cd Qt
+  192  cd QtBliLiveDanmaku
+  193  ls
+  194  mkdir build
+  195  cd build
+  196  ls
+  197  cmake ..
+  198  ls
+  199  cd ..
+  200  ls
+  201  rm -rf build
+  202  ;s
+  203  ls
+  204  cd libBliLiveDanmaku
+  205  ls
+  206  glog
+  207  git checkout master
+  208  ls
+  209  cd test
+  210  ls
+  211  vim test_blidanmaku.cpp
+  212  ..
+  213  ls
+  214  git clone https://github.com/CmST0us/SocketAsio.git --recursive
+  215  ls
+  216  cd Socket
+  217  cd SocketAsio
+  218  ls
+  219  cd test
+  220  ls
+  221  vi test_asio.cpp
+  222  ls
+  223  ..
+  224  ls
+  225  vi CMakeLists.txt
+  226  sudo apt install ctags
+  227  vi CMakeLists.txt
+  228  ls
+  229  cd asio
+  230  ls
+  231  cd asio/src/examples/cpp11/buffers
+  232  ls
+  233  vim reference_counted.cpp
+  234  ls
+  235  sudo apt-get install network-manager-l2tp-gnome
+  236  sudo mkdir -p /usr/share/fonts/truetype/YaHei\ Consolas\ Hybrid
+  237  sudo cp YaHeiMonacoHybird.ttf /usr/share/fonts/truetype/YaHei\ Consolas\ Hybrid
+  238  cd /usr/share/fonts/truetype/YaHei\ Consolas\ Hybrid
+  239  sudo chmod 644 YaHeiMonacoHybird.ttf
+  240  sudo mkfontscale
+  241  sudo mkfontdir
+  242  sudo fc-cache -fv
+  243  cd /usr/share/fonts/truetype
+  244  ls
+  245  cd YaHei\ Consolas\ Hybrid
+  246  ls
+  247  rm *
+  248  sudo rm -f *
+  249  sudo cp YaHeiMonacoHybrid.ttf /usr/share/fonts/truetype/YaHei\ Consolas\ Hybrid
+  250  cd /usr/share/fonts/truetype/YaHei\ Consolas\ Hybrid
+  251  ls
+  252  sudo chmod 644 YaHeiMonacoHybrid.ttf
+  253  sudo mkfontscale
+  254  sudo mkfontdir
+  255  sudo fc-cache -fv
+  256  Project
+  257  l
+  258  SocketAsio
+  259  l
+  260  vim
+  261  ls
+  262  ls -l
+  263  ls -la
+  264  cd .SpaceVim
+  265  ls
+  266  cd config
+  267  ls
+  268  cd ..
+  269  ls
+  270  cd ..
+  271  ls
+  272  ls .vim/vimrc 
+  273  vi .vim/vimrc
+  274  vi .SpaceVim/config
+  275  ls
+  276  vi .viminfo
+  277  vi .vim/config/main.vim
+  278  vi .ideavimrc
+  279  l
+  280  vi .ideavimrc
+  281  cp .ideavimrc ideavimrc
+  282  nc 127.0.0.1 12002
+  283  netcat 127.0.0.1 12002
+  284  vim
+  285  nc 127.0.0.1 12001
+  286  Project
+  287  ls
+  288  SocketAsio
+  289  l
+  290  vim
+  291  Project
+  292  SocketKit
+  293  glog
+  294  glo
+  295  Project
+  296  SocketAsio
+  297  vim
+  298  nc -l -p 12002
+  299  Project
+  300  SocketAsio
+  301  vim
+  302  Project
+  303  SocketAsio
+  304  l
+  305  vim
+  306  nc www.baidu.com 8088
+  307  nc www.ba.com
+  308  nc www.ba.com 80
+  309  nc www.ba.com 80088
+  310  nc www.ba.com 8088
+  311  nc www.asdfasdfasdf.com 80
+  312  ping www.bviasdfasdfasd.com
+  313  nc -l -p 12002
+  314  vim
+  315  Project
+  316  l
+  317  SocketAsio
+  318  vim
+  319  nc 127.0.0.1 12003
+  320  nc 127.0.0.1 12003 < ideavimrc
+  321  nc -u 127.0.0.1 12007
+  322  nc -u -l -p 12005
+  323  lsof
+  324  nc -u -l -p 12007
+  325  nc -u 127.0.0.1 12007
+  326  nc -u -l 12005 127.0.0.1 12007
+  327  nc -u -l -p 12005
+  328  nc -u 127.0.0.1 12007
+  329  ./pycharm.sh
+  330  ssh -i aws-hk.pem ec2-user@hk.eric3u.xyz
+  331  ssh 
+  332  chmod 600 aws-*
+  333  ssh -i aws-hk.pem ec2-user@hk.eric3u.xyz
+  334  sshkey
+  335  ssh -i aws-hk.pem ec2-user@hk.eric3u.xyz
+  336  sudo dpkg -i code-insiders_1.35.0-1559338592_amd64.deb
+  337  ssh
+  338  apt install nvm
+  339  sudo apt install nvm
+  340  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  341  nvma
+  342  nvm
+  343  ls
+  344  nvm
+  345  bash
+  346  vi .bashrc
+  347  vi .zshrc
+  348  vi .bashrc
+  349  nano .bashrc
+  350  nano .zshrc
+  351  nano .bashrc
+  352  vi .zshrc
+  353  bash
+  354  node
+  355  bash
+  356  echo $PATH
+  357  vi .zshrc
+  358  node
+  359  npm
+  360  ls
+  361  cd Project
+  362  ls
+  363  cd node_Project
+  364  ls
+  365  mv TellMeTesla tell_me_tesla
+  366  l
+  367  npm i puppeteer
+  368  npm --registry=https://registry.npm.taobao.org install koa
+  369  npm --registry=https://registry.npm.taobao.org 
+  370  npm config set registry https://registry.npm.taobao.org --global
+  371  npm config set disturl https://npm.taobao.org/dist --global
+  372  npm i puppeteer
+  373  apt search shadowsocks
+  374  npm i puppeteer-core
+  375  npm i puppeteer-core --sace
+  376  npm i puppeteer-core --save
+  377  env
+  378  env PUPPETEER_DOWNLOAD_HOST=https://npm.taobao.org/mirrors npm i puppeteer --save
+  379  py
+  380  pip3
+  381  apt install pip3
+  382  apt search pip
+  383  sudo apt install python3-pip
+  384  sudo apt update
+  385  sudo apt install python3-pip
+  386  nvcc
+  387  apt search nvcc
+  388  sudo apt install nvidia-cuda-toolkit
+  389  pip3
+  390  ls
+  391  cd Project
+  392  ls
+  393  mkdir ML_Project
+  394  cd ML_Project
+  395  l
+  396  git clone https://github.com/megvii-detection/MSPN.git --depth 1
+  397  ls
+  398  cd MSPN
+  399  l
+  400  vi /home/eki/.zshrc
+  401  pip3 install -r requirements.txt
+  402  git clone https://github.com/cocodataset/cocoapi.git $MSPN_HOME/lib/COCOAPI\ncd $MSPN_HOME/lib/COCOAPI/PythonAPI\nmake install
+  403  git clone https://github.com/cocodataset/cocoapi.git $MSPN_HOME/lib/COCOAPI
+  404  Project
+  405  l
+  406  ML_Project/l
+  407  ML_Project
+  408  l
+  409  MSPN
+  410  l
+  411  git clone https://github.com/cocodataset/cocoapi.git $MSPN_HOME/lib/COCOAPI
+  412  sudo apt install nvidia-cuda-toolkit
+  413  cd lib/COCOAPI/PythonAPI
+  414  make install
+  415  ls
+  416  pip3 install setuptools
+  417  make install
+  418  pip3 install setuptools
+  419  pip install setuptools
+  420  sudo apt install python-pip
+  421  sudo service xl2tpd stop
+  422  sudo update-rc.d xl2tpd disable
+  423  sudo apt install python-pip
+  424  syslinux
+  425  rsyslogd
+  426  dmesg
+  427  log
+  428  cat /var/log/syslog
+  429  sudo apt-get install network-manager-l2tp-gnome
+  430  netstat
+  431  netstat -l
+  432  netstat -lu
+  433  l
+  434  ss-tunnel
+  435  vi /etc/shadowsocks-libev/config.json
+  436  sudo vi /etc/shadowsocks-libev/config.json
+  437  ss-redir
+  438  modprobe xt_TPROXY
+  439  sudo modprobe xt_TPROXY
+  440  sudo apt install iproute
+  441  sudo apt install iproute2
+  442  ls
+  443  cd Applications
+  444  l
+  445  git clone https://github.com/zfl9/ss-tproxy\ncd ss-tproxy\nchmod +x ss-tproxy\ncp -af ss-tproxy /usr/local/bin\nmkdir -p /etc/ss-tproxy\ncp -af ss-tproxy.conf gfwlist.* chnroute.* /etc/ss-tproxy
+  446  ls
+  447  sudo cp -af ss-tproxy /usr/local/bin
+  448  sudo mkdir -p /etc/ss-tproxy
+  449  sudo cp -af ss-tproxy.conf gfwlist.* chnroute.* /etc/ss-tproxy
+  450  vi /etc/ss-tproxy/ss-tproxy.conf
+  451  ls
+  452  vi ss-tproxy.service
+  453  vi /etc/ss-tproxy/ss-tproxy.conf
+  454  ss-tproxy
+  455  ss-tproxy start
+  456  sudo ss-tproxy start
+  457  killall -9 ss-local
+  458  ps aux | grep ss
+  459  sudo killall -9 ss-redir
+  460  sudo ss-tproxy start
+  461  sudo ss-tproxy
+  462  sudo ss-tproxy stop
+  463  sudo ss-tproxy flush-iptables
+  464  sudo ss-tproxy start
+  465  ss-tproxy 
+  466  sudo ss-tproxy status
+  467  ping www.google.com
+  468  sudo ss-tproxy stop
+  469  sudo ss-tproxy flush-iptables
+  470  ss-local
+  471  sudo ss-local
+  472  sudo apt install python-pip
+  473  sudo apt install strong swan
+  474  sudo apt install strongswan
+  475  ..
+  476  ls
+  477  git clone https://github.com/ctrngk/l2tp-client.git
+  478  ls
+  479  cd l2tp-client
+  480  ls
+  481  vi config.ini
+  482  sudo python3 connect.py
+  483  sudo python3 connect.py help
+  484  vi connect.py
+  485  xl2tpd
+  486  sudo service xl2tpd stop
+  487  ps aux | grep xl2tp
+  488  sudo python3 connect.py
+  489  vi connect.py
+  490  service strongswan
+  491  apt install strongswan
+  492  sudo apt install strongswan
+  493  apt search strongswan
+  494  sudo apt install network-manager-strongswan
+  495  ..
+  496  ls
+  497  rm ss-tproxy
+  498  rm -rf ss-tproxy
+  499  ls
+  500  sudo rm -fr /etc/ss-tproxy /usr/local/bin/ss-tproxy
+  501  l
+  502  cd Applications
+  503  l
+  504  cd l2tp-client
+  505  l
+  506  sudo python3 connect.py
+  507  service strongswan
+  508  service strongswan stop
+  509  sudo service strongswan start
+  510  ls
+  511  cd Applications
+  512  ls
+  513  d l2tp-client
+  514  l
+  515  cd l2tp-client
+  516  l
+  517  vi connect.py
+  518  sudo service strong status
+  519  sudo service strongswan status
+  520  sudo service xl2tpd status
+  521  ipsec down
+  522  vi connect.py
+  523  sudo python3 connect.py
+  524  vi connect.py
+  525  ip
+  526  ip a
+  527  ip a ppp
+  528  ip a
+  529  sudo python3 connect.py
+  530  ip a
+  531  vi connect.py
+  532  sudo python3 connect.py
+  533  vi connect.py
+  534  sudo python3 connect.py
+  535  vi connect.py
+  536  sudo python3 connect.py
+  537  vi connect.py
+  538  sudo python3 connect.py
+  539  service xl2tpd status
+  540  vi /etc/iptables.rules
+  541  sudo vi /etc/iptables.rules
+  542  sudo iptables-restore < /etc/iptables.rules
+  543  ls
+  544  cd Applications
+  545  l
+  546  cd l2tp-client
+  547  l
+  548  sudo python3 connect.py
+  549  sudo service xl2tpd status
+  550  ls
+  551  vi config.ini
+  552  sudo apt install network-manager-l2tp
+  553  sudo service xl2tpd status
+  554  ls
+  555  cd Applications
+  556  l
+  557  cd l2tp-client
+  558  ls
+  559  sudo python3 connect.py
+  560  sudo service xl2tpd status
+  561  vi /etc/ppp/options.l2tpd.client
+  562  apt search ppp
+  563  sudo vi /etc/ppp/options.l2tpd.client
+  564  sudo service xl2tpd status
+  565  sudo python3 connect.py
+  566  sudo service xl2tpd status
+  567  sudo vi /etc/ppp/options.l2tpd.client
+  568  ls
+  569  vi /etc/ppp/options
+  570  sudo vi /etc/ppp/options
+  571  sudo service ppp status
+  572  sudo service pppd status
+  573  sudo service xl2tpd status
+  574  sudo service xl2tpd stop
+  575  sudo python3 connect.py
+  576  sudo service xl2tpd status
+  577  vi /etc/ppp/options.l2tpd.client
+  578  sudo vi /etc/ppp/options.l2tpd.client
+  579  sudo service xl2tpd stop
+  580  sudo python3 connect.py
+  581  apt search ppp lock
+  582  apt search ppp
+  583  apt search ppp | grep lock
+  584  sudo service xl2tpd status
+  585  sudo service xl2tpd stop
+  586  sudo service xl2tpd start
+  587  sudo service xl2tpd status
+  588  sudo service xl2tpd stop
+  589  sudo python3 connect.py
+  590  sudo service xl2tpd status
+  591  apt search NetworkManager
+  592  apt search xl2tpd
+  593  apt search ppp
+  594  l
+  595  sudo apt install python-pip
+  596  sudo service xl2tpd status
+  597  ls
+  598  sudo python3 connect.py
+  599  sudo service xl2tpd status
+  600  vi /etc/ppp/options.l2tpd.client
+  601  sudo service xl2tpd status
+  602  sudo vi /etc/ppp/options.l2tpd.client
+  603  sudo service xl2tpd status
+  604  vi connect.py
+  605  ifconfig ppp
+  606  apt install ppp
+  607  sudo apt install ppp
+  608  sudo apt install ppp-dev
+  609  ppp
+  610  ifconfig
+  611  ifconfig [ppp
+  612  ifconfig ppp
+  613  ipsec
+  614  sudo apt install openswan
+  615  sudo service xl2tpd status
+  616  cat /var/log/syslog
+  617  netstat -anp
+  618  netstat -anp |grep 1701
+  619  netstat -tunlp
+  620  service xl2tpd stop
+  621  netstat -tunlp
+  622  sudo service xl2tpd status
+  623  q
+  624  cat /var/log/syslog
+  625  sudo apt install libreswan
+  626  Proj
+  627  Project
+  628  l
+  629  cd ML_Project
+  630  l
+  631  cd MSPN
+  632  l
+  633  make install
+  634  cd lib
+  635  l
+  636  cd COCOAPI
+  637  l
+  638  cd PythonAPI
+  639  l
+  640  make
+  641  make install
+  642  pip install setuptools
+  643  pip
+  644  sudo apt install python-pip
+  645  make install
+  646  pip install numpy
+  647  sudo apt install nvcc
+  648  sudo apt install nvidia-cuda-dev
+  649  pip install numpy
+  650  sudo apt install nvidia-cuda-dev --fix-missing
+  651  pip install numpy
+  652  sudo apt install nvidia-cuda-dev --fix-missing
+  653  make install
+  654  ls
+  655  cd pycocotools
+  656  ls
+  657  cd ..
+  658  ls
+  659  ./setup.py
+  660  python setup.py
+  661  ls
+  662  make
+  663  ls
+  664  ..
+  665  ls
+  666  vi README.txt
+  667  ls
+  668  cd PythonAPI
+  669  ls
+  670  vi Makefile
+  671  python setup.py help
+  672  python setup.py cmd
+  673  python setup.py cmd --help
+  674  python setup.py 
+  675  vi setup.py
+  676  python setup.py build_ext install
+  677  ls
+  678  nvcc
+  679  apt search nvcc
+  680  apt install nvidia-cuda-toolkit
+  681  sudo apt install nvidia-cuda-toolkit
+  682  ssh ubuntu@www.llinfo.club
+  683  ssh ubuntu@52.198.100.208
+  684  ssh ubuntu@52.198.100.208 -p
+  685  make
+  686  ./vpnclient help
+  687  vi lang.config
+  688  ./vpnclient start
+  689  ./vpnclient stop
+  690  sudo ./vpnclient start
+  691  ls
+  692  ./vpncmd
+  693  sudo ip route 
+  694  sudo ip route add default via 52.198.100.208
+  695  sudo ip route del default
+  696  sudo ip route add default via 52.198.100.208
+  697  sudo ip route add 52.198.100.208 via 192.168.1.1
+  698  sudo route del default
+  699  sudo ip route del default
+  700  sudo ip route add default via 52.198.100.208
+  701  sudo ip route
+  702  sudo ip route add default via 192.168.1.1
+  703  sudo ip route
+  704  ls
+  705  cd Applications
+  706  l
+  707  cd vpnclient
+  708  l
+  709  sudo ./vpnclient start
+  710  ls
+  711  ./vpncmd
+  712  pin www.llinfo.club
+  713  ping www.llinfo.club
+  714  ./vpncmd
+  715  nv
+  716  cd /dev
+  717  ls
+  718  gcc
+  719  gcc -v
+  720  sudo apt install nvidia-cuda-toolkit
+  721  ifconfig
+  722  ls
+  723  App
+  724  Applications
+  725  l
+  726  vpnclient
+  727  l
+  728  ./vpncmd
+  729  ip route
+  730  ifconfig
+  731  ls
+  732  vi ReadMeFirst_Important_Notices_cn.txt
+  733  ls
+  734  ./vpncmd
+  735  cat /proc/sys/net/ipv4/ip_forward
+  736  sudo vi /etc/sysctl.conf
+  737  sudo sysctl -p
+  738  ifconfig
+  739  sudo dhclient vpn_veth1
+  740  sudo netstat -rn
+  741  ping www.google.com
+  742  ping www.baidu.com
+  743  ls
+  744  ./vpncmd
+  745  apt search networkmanagetr
+  746  apt search networkmanager
+  747  apt search networkmanager-sstp
+  748  apt search sstp
+  749  ./vpncmd
+  750  ip route
+  751  sudo ip route del default via 192.168.30.1
+  752  ip route
+  753  ping www.baidu.com
+  754  ./vpncmd
+  755  ifconfig
+  756  ip route
+  757  ls
+  758  Applications
+  759  l
+  760  vpnclient
+  761  l
+  762  ./vpncmd
+  763  ifconfig
+  764  ping
+  765  ping -I vpn_veth1 www.google.com
+  766  ping -I vpn_veth1 www.baidu.com
+  767  dhclient vpn_veth1
+  768  sudo dhclient vpn_veth1
+  769  dnsmasq
+  770  sudo dnsmasq
+  771  ./vpnclient
+  772  ./vpncmd
+  773  ifconfig
+  774  ip route
+  775  ip route del default via vpn_veth1
+  776  sudo ip route del default via vpn_veth1
+  777  ifconfig
+  778  route
+  779  route -n
+  780  ping 192.168.30.1
+  781  sudo ip route add 192.168.30.1 via 192.168.1.1
+  782  ping 192.168.30.1
+  783  route -n
+  784  sudo ip route del 192.168.30.1/32
+  785  sudo ip route del 0.0.0.0/0 via 192/168.30.1
+  786  sudo ip route del 0.0.0.0/0 via 192.168.30.1
+  787  ./vpncmd
+  788  Applications
+  789  l
+  790  vpnclient
+  791  l
+  792  ./vpncmd 
+  793  sudo ip route add 119.28.85.166/32 via 192.168.1.1
+  794  sudo ip route del default via 192.168.1.1
+  795  sudo ip route
+  796  route -n
+  797  sudo ip route add default 192.168.30.1
+  798  sudo ip route add default via 192.168.30.1
+  799  apt install
+  800  ls
+  801  ./configure
+  802  sudo apt install libevent
+  803  sudo apt install libevent-dev
+  804  ls
+  805  Applications
+  806  l
+  807  cd l2tp-client
+  808  l
+  809  sudo python3 connect.py
+  810  sudo service strongswan start
+  811  ls
+  812  cd Applications
+  813  l
+  814  cd l2tp-client
+  815  l
+  816  sudo python3 connect.py
+  817  ls
+  818  cd ..
+  819  ls
+  820  cd vpnclient
+  821  l
+  822  sudo ./vpnclient start
+  823  ls
+  824  sudo ./setup_router_hk.sh
+  825  ifcpm
+  826  ifconfig
+  827  sudo apt install nvidia-cuda-toolkit
+  828  nvcc
+  829  sudo apt autoremove
+  830  ls
+  831  ping www.google.com
+  832  ls
+  833  cd Applications
+  834  ls
+  835  cd vpnclient
+  836  ls
+  837  vi stop_router_hk.sh
+  838  ./stop_router_hk.sh
+  839  chmod 755 stop_router_hk.sh
+  840  ./stop_router_hk.sh
+  841  vi stop_router_hk.sh
+  842  ip route
+  843  ifconfig
+  844  ls
+  845  vi setup_router_hk.sh
+  846  ./setup_router_hk.sh
+  847  ifconfig
+  848  ip route
+  849  vi setup_router_hk.sh
+  850  dhclient vpn_veth1
+  851  sudo dhclient vpn_veth1
+  852  sudo ./stop_router_hk.sh
+  853  ip route
+  854  ping www.baidu.com
+  855  sudo ./setup_router_hk.sh
+  856  ip route
+  857  vi setup_router_hk.sh
+  858  ./stop_router_hk.sh
+  859  ./setup_router_hk.sh
+  860  ifconfig
+  861  plipconfig
+  862  ip route
+  863  ip route add default via 192.168.30.1
+  864  sudo ip route add default via 192.168.30.1
+  865  ip route
+  866  vi setup_router_hk.sh
+  867  dhclient
+  868  sudo dhclient
+  869  sudo dhclient -h
+  870  sudo killall dhclient
+  871  sudo killall -9 dhclient
+  872  ./setup_router_hk.sh
+  873  ip route
+  874  ./stop_router_hk.sh
+  875  vi stop_router_hk.sh
+  876  ./stop_router_hk.sh
+  877  ip route
+  878  ./setup_router_hk.sh
+  879  ip route
+  880  ./setup_router_hk.sh
+  881  vi setup_router_hk.sh
+  882  ip route
+  883  ls
+  884  Applications
+  885  ls
+  886  cd vpnclient
+  887  l
+  888  sudo ./vpnclient start
+  889  ./vpncmd
+  890  ls
+  891  ./setup_router_hk.sh
+  892  ip route
+  893  ls
+  894  cd Project
+  895  l
+  896  mkdir rockchip
+  897  cd rockchip
+  898  l
+  899  mkdir rk3399
+  900  cd rk3399
+  901  l
+  902  git clone https://github.com/CmST0us/kernel-rockchip.git kernel
+  903  ls
+  904  git clone https://github.com/rockchip-linux/manifests.git
+  905  ls
+  906  repo
+  907  sudo apt install repo
+  908  ls
+  909  cd manifests
+  910  l
+  911  ls
+  912  repo sync --no-clone-bundle
+  913  df
+  914  vi rk3399_linux_release_v2.10_20190124.xml
+  915  which nvcc
+  916  ls
+  917  cd Project
+  918  l
+  919  mkdir CUDA_Project
+  920  cd CUDA_Project
+  921  ls
+  922  mkdir tmp
+  923  ls
+  924  cd tmp
+  925  ls
+  926  vi main.cu
+  927  nvcc -arch sm_20 main.cu -o main
+  928  nvcc main.cu -o main
+  929  vi main.cu
+  930  nvcc main.cu -o main
+  931  ;s
+  932  ls
+  933  ./main
+  934  ls
+  935  vi main.cu
+  936  ubuntu-drivers devices
+  937  ls
+  938  git branch
+  939  glog
+  940  q
+  941  git checkout origin/release-4.4
+  942  git checkout nanopi4-linux-v4.4.y
+  943  git checkout develop/linux-4.4
+  944  git checkout -b develop/linux-4.4
+  945  git push origin develop/linux-4.4
+  946  sudo apt install nvidia-driver-390
+  947  sudo apt install nvidia-driver-390 --fix-missing
+  948  sudo apt update
+  949  sudo apt install nvidia-driver-390
+  950  ls
+  951  ..
+  952  ls
+  953  cd manifests
+  954  l
+  955  cd tools
+  956  ls
+  957  cd linux
+  958  l
+  959  ...
+  960  ls
+  961  apt search arch64
+  962  ubuntu-drivers devices
+  963  ls
+  964  cd Applications
+  965  cd vpnclient
+  966  l
+  967  ./setup_router_hk.sh
+  968  dmesg
+  969  ls
+  970  cd Project
+  971  l
+  972  cd CUDA_Project
+  973  l
+  974  cd tmp
+  975  l
+  976  ./main
+  977  vi main.cu
+  978  nvcc main.cu -o main
+  979  ./main
+  980  vi main.cu
+  981  nvcc main.cu -o main
+  982  ./main
+  983  ls
+  984  nvidia-detector
+  985  sudo apt remove nvidia-driver-390
+  986  sudo apt autoremove
+  987  sudo apt remove nvidia-cuda-dev
+  988  sudo apt autoremove
+  989  ls
+  990  cd Apll
+  991  cd Applications
+  992  ls
+  993  cd vpnclient
+  994  ls
+  995  ./setup_router_hk.sh
+  996  ubuntu-drivers devices
+  997  ./NVIDIA-Linux-x86_64-430.26.run
+  998  chmod 755 NVIDIA-Linux-x86_64-430.26.run
+  999  ./NVIDIA-Linux-x86_64-430.26.run
+ 1000  sudo ./NVIDIA-Linux-x86_64-430.26.run
+ 1001  vi /var/log/nvidia-installer.log
+ 1002  apt search ncuses
+ 1003  vi /var/log/nvidia-installer.log
+ 1004  apt search ncurses
+ 1005  vi /var/log/nvidia-installer.log
+ 1006  sudo ./NVIDIA-Linux-x86_64-430.26.run
+ 1007  ls
+ 1008  cd 下载
+ 1009  lls
+ 1010  ls
+ 1011  sudo ./NVIDIA-Linux-x86_64-430.26.run
+ 1012  ls
+ 1013  vi /etc/modprobe.d/nvidia-installer-disable-nouveau.conf
+ 1014  sudo update-initramfs -u
+ 1015  cd 下载
+ 1016  ls
+ 1017  sudo ./NVIDIA-Linux-x86_64-430.26.run
+ 1018  cd 下载
+ 1019  ls
+ 1020  sudo ./NVIDIA-Linux-x86_64-430.26.run
+ 1021  dmesg
+ 1022  ls
+ 1023  apt search optimus
+ 1024  ls /dev
+ 1025  nvidia-detector
+ 1026  apt search nvidia-331
+ 1027  apt search nvidia-390
+ 1028  apt search nvidia-3
+ 1029  ls
+ 1030  cd Applications
+ 1031  vpnclient
+ 1032  l
+ 1033  ./setup_router_hk.sh
+ 1034  sudo apt install nvidia-driver-390 
+ 1035  nvidia-xconfig
+ 1036  sudo nvidia-xconfig
+ 1037  ls
+ 1038  cd /etc/X11/
+ 1039  ls
+ 1040  vi xorg.conf
+ 1041  vi xorg.conf.backup
+ 1042  sudo reboot
+ 1043  sudo service gdm stop
+ 1044  ls
+ 1045  cd Applications
+ 1046  ls
+ 1047  cd ..
+ 1048  cd 下载
+ 1049  ls
+ 1050  sudo ./NVIDIA-Linux-x86_64-430.26.run --no-opengl-files
+ 1051  sudo ./NVIDIA-Linux-x86_64-430.26.run --no-opengl-files --help
+ 1052  vi NVIDIA-Linux-x86_64-430.26.run
+ 1053  sudo ./NVIDIA-Linux-x86_64-430.26.run -help
+ 1054  sudo ./NVIDIA-Linux-x86_64-430.26.run --advanced-options
+ 1055  sudo ./NVIDIA-Linux-x86_64-430.26.run --no-opengl-files
+ 1056  ls
+ 1057  sudo service gdm stop
+ 1058  cd 下载
+ 1059  ls
+ 1060  sudo ./NVIDIA-Linux-x86_64-430.26.run
+ 1061  sudo ./NVIDIA-Linux-x86_64-430.26.run --no-opengl-files
+ 1062  nvidia-settings
+ 1063  reboot
+ 1064  ls
+ 1065  sudo apt install nvidia-prime
+ 1066  cd Project
+ 1067  l
+ 1068  cd CUDA_Project
+ 1069  l
+ 1070  cd tmp
+ 1071  ls
+ 1072  ./main
+ 1073  sudo nvidia-xconfig
+ 1074  ls
+ 1075  cd /etc/X11
+ 1076  ls
+ 1077  vi xorg.conf
+ 1078  ls
+ 1079  cd Project
+ 1080  ls
+ 1081  cd CUDA_Project
+ 1082  ls
+ 1083  cd tmp
+ 1084  ls
+ 1085  vi main
+ 1086  vi main.cu
+ 1087  ls
+ 1088  nvcc main.cu -o main
+ 1089  nvcc
+ 1090  sudo apt install nvidia-cuda-dev
+ 1091  cd Applications
+ 1092  l
+ 1093  cd vpnclient
+ 1094  l
+ 1095  ./setup_router_hk.sh
+ 1096  ifconfig
+ 1097  ls
+ 1098  sudo apt install nvidia-cuda-dev
+ 1099  ls
+ 1100  nvcc main.cu -o main
+ 1101  cd Project
+ 1102  l
+ 1103  cd CUDA_Project
+ 1104  l
+ 1105  cd tmp
+ 1106  l
+ 1107  nvcc main.cu -o main
+ 1108  nvcc
+ 1109  sudo apt install nvidia-cuda-toolkit
+ 1110  nvcc
+ 1111  nvcc main.cu -o main
+ 1112  ./main
+ 1113  ls
+ 1114  ..
+ 1115  ls
+ 1116  ..
+ 1117  ls
+ 1118  cd ML_Project
+ 1119  ls
+ 1120  cd MSPN
+ 1121  ls
+ 1122  pip3 install -r requirements.txt
+ 1123  ls
+ 1124  vi README.md
+ 1125  pip3 install torch 1.1
+ 1126  cd Project
+ 1127  l
+ 1128  cd ML_Project
+ 1129  ls
+ 1130  cd MSPN
+ 1131  l
+ 1132  cd lib
+ 1133  ls
+ 1134  cd COCOAPI
+ 1135  l
+ 1136  vi README.txt
+ 1137  cd common
+ 1138  ls
+ 1139  cd ..
+ 1140  ls
+ 1141  pip3 install torch 1.1
+ 1142  ls
+ 1143  cd Applications
+ 1144  ls
+ 1145  ifconfig
+ 1146  ls
+ 1147  cd vpnclient
+ 1148  ls
+ 1149  ./vpncmd
+ 1150  ./stop_router_hk.sh
+ 1151  ip route
+ 1152  ./setup_router_hk.sh
+ 1153  pip3 install torch 1.1
+ 1154  ip route
+ 1155  pip3 install torch 1.1
+ 1156  ls
+ 1157  cd
+ 1158  cd Applications
+ 1159  ls
+ 1160  cd vpnclient
+ 1161  ls
+ 1162  ./setup_router_hk.sh
+ 1163  sudo killall -9 dhclient
+ 1164  ./setup_router_hk.sh
+ 1165  vi setup_router_hk.sh
+ 1166  ./setup_router_hk.sh
+ 1167  vi setup_router_hk.sh
+ 1168  ip route
+ 1169  vi setup_router_hk.sh
+ 1170  ./setup_router_hk.sh
+ 1171  ip route
+ 1172  ls
+ 1173  sudo ./vpnclient stop
+ 1174  sudo ./vpnclient start
+ 1175  vi setup_router_hk.sh
+ 1176  ./setup_router_hk.sh
+ 1177  ls
+ 1178  cd Applications/vpnclient
+ 1179  l
+ 1180  sudo ./setup_router_hk.sh
+ 1181  ifcpn
+ 1182  ifconfig
+ 1183  sudo ./setup_router_hk.sh
+ 1184  ifconfig
+ 1185  pip3 install torch 1.1
+ 1186  pip3 install torch
+ 1187  python
+ 1188  python3
+ 1189  ls
+ 1190  cd Project
+ 1191  ls
+ 1192  git clone https://github.com/xenia-project/xenia.git
+ 1193  ip route
+ 1194  git clone https://github.com/xenia-project/xenia.git
+ 1195  cd Applications 
+ 1196  ls
+ 1197  cd vpnclient
+ 1198  l
+ 1199  ./stop_router_hk.sh
+ 1200  ./vpnclient stop
+ 1201  ./setup_router_hk.sh
+ 1202  git clone https://github.com/xenia-project/xenia.git
+ 1203  ./setup_router_hk.sh
+ 1204  Applications/vpnclient
+ 1205  l
+ 1206  ./stop_router_hk.sh
+ 1207  ip route
+ 1208  ifconfig
+ 1209  ./setup_router_hk.sh
+ 1210  ./stop_router_hk.sh
+ 1211  ip r
+ 1212  git clone https://github.com/xenia-project/xenia.git
+ 1213  ls
+ 1214  cd xenia
+ 1215  ls
+ 1216  ./xenia-build
+ 1217  ./xenia-build setup
+ 1218  ls
+ 1219  cd Applications/vpnclient
+ 1220  ls
+ 1221  ./setup_router_hk.sh
+ 1222  ./xenia-build setup
+ 1223  ip r
+ 1224  ./setup_router_hk.sh
+ 1225  ip
+ 1226  ip r
+ 1227  ./xenia-build setup
+ 1228  ls
+ 1229  cd ..
+ 1230  ls
+ 1231  rm -rf xenia
+ 1232  git clone https://github.com/xenia-project/xenia.git
+ 1233  cd
+ 1234  Applications/vpnclient
+ 1235  l
+ 1236  ./stop_router_hk.sh
+ 1237  ls
+ 1238  cd Applications
+ 1239  ls
+ 1240  cd vpnclient
+ 1241  ls
+ 1242  vi setup_router_hk.sh
+ 1243  ifconfig
+ 1244  ip route
+ 1245  ./setup_router_hk.sh
+ 1246  ls
+ 1247  cd Project
+ 1248  l
+ 1249  cd MCU_Project
+ 1250  mkdir MCU_Project
+ 1251  cd MCU_Project
+ 1252  ls
+ 1253  git clone https://github.com/RT-Thread/rt-thread
+ 1254  ls
+ 1255  cd rt-thread
+ 1256  ls
+ 1257  git checkout v4.0.1
+ 1258  sudo apt install qemu
+ 1259  ls
+ 1260  cd examples
+ 1261  ls
+ 1262  cd ..
+ 1263  ls
+ 1264  cd libcpu
+ 1265  ls
+ 1266  cd ..
+ 1267  ls
+ 1268  cd bsp
+ 1269  s
+ 1270  ls
+ 1271  cd qemu-vexpress-a9
+ 1272  ls
+ 1273  cd applications
+ 1274  ls
+ 1275  cd ..
+ 1276  ls
+ 1277  cd ..
+ 1278  ls
+ 1279  cd stm32f4xx-HAL
+ 1280  ls
+ 1281  cd applications
+ 1282  ls
+ 1283  cd ..
+ 1284  ls
+ 1285  cd Libraries
+ 1286  ls
+ 1287  cd ..
+ 1288  ls
+ 1289  vi template.uvprojx
+ 1290  ls
+ 1291  cd Project
+ 1292  l
+ 1293  cd MCU_Project
+ 1294  l
+ 1295  cd rh
+ 1296  cd rt-thread
+ 1297  l
+ 1298  cd bsp
+ 1299  ls
+ 1300  cd stm32f20x
+ 1301  ls
+ 1302  vi SConscript
+ 1303  vi SConstruct
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  ctags
+ 1308  ls
+ 1309  cd Project
+ 1310  l
+ 1311  cd SocketAsio
+ 1312  ls
+ 1313  ctags -h
+ 1314  ctags --help
+ 1315  ctags --R
+ 1316  ctags -R
+ 1317  ls
+ 1318  vi tags
+ 1319  vim
+ 1320  ctags
+ 1321  ctags --help
+ 1322  ip route
+ 1323  Applications/vpnclient
+ 1324  ./stop_router_hk.sh
+ 1325  ip ro
+ 1326  sudo apt install gazebo
+ 1327  sudo apt install gazebo9
+ 1328  ls
+ 1329  cd Applications/vpnclient
+ 1330  ls
+ 1331  ./setup_router_hk.sh
+ 1332  sudo apt install gazebo9
+ 1333  gazebo
+ 1334  ip r
+ 1335  qemu
+ 1336  qemu-aarch64
+ 1337  qemu-aarch64 -h
+ 1338  qemu-system-aarch64
+ 1339  qemu-system-aarch64 -h
+ 1340  qemu-x86_64
+ 1341  ls
+ 1342  cd Project
+ 1343  ls
+ 1344  git clone https://github.com/CmST0us/MyLeetCode.git
+ 1345  ls
+ 1346  cd MyLeetCode
+ 1347  ls
+ 1348  mkdir code
+ 1349  cd code
+ 1350  l
+ 1351  ls
+ 1352  mkdir 1_two_sum
+ 1353  cd 1_two_sum
+ 1354  ls
+ 1355  vi main.cpp
+ 1356  ip
+ 1357  ip r
+ 1358  sudo ip route del default via 192.168.1.1
+ 1359  ip r
+ 1360  ls
+ 1361  Applications
+ 1362  ls
+ 1363  cd vpnclient
+ 1364  ls
+ 1365  gcc
+ 1366  ls
+ 1367  ./stop_router_hk.sh
+ 1368  ls
+ 1369  ..
+ 1370  ls
+ 1371  cd Project
+ 1372  ls
+ 1373  cd rockchip
+ 1374  ls
+ 1375  cd rk3399
+ 1376  l
+ 1377  cd manifests
+ 1378  ls
+ 1379  cd tools
+ 1380  slcd
+ 1381  ls
+ 1382  cd ..
+ 1383  ls
+ 1384  vi envsetup.sh
+ 1385  vi build.sh
+ 1386  cd device
+ 1387  ls
+ 1388  cd rockchip/rk3399
+ 1389  ls
+ 1390  cd ..
+ 1391  ls
+ 1392  sudo apt install gcc-aarch64-linux-gnu
+ 1393  Applications
+ 1394  ls
+ 1395  cd vpnclient
+ 1396  ls
+ 1397  ./setup_router_hk.sh
+ 1398  sudo apt install gcc-aarch64-linux-gnu
+ 1399  Applications/vpnclient
+ 1400  ./stop_router_hk.sh
+ 1401  ./setup_router_hk.sh
+ 1402  sudo apt install gcc-aarch64-linux-gnu
+ 1403  ip r
+ 1404  sudo apt install gcc-aarch64-linux-gnu
+ 1405  Applications/vpnclient
+ 1406  ./stop_router_hk.sh
+ 1407  ./setup_router_hk.sh
+ 1408  sudo apt install gcc-aarch64-linux-gnu
+ 1409  aarch64-linux-gnu-gcc
+ 1410  aarch64-linux-gnu-gcc-h
+ 1411  ls
+ 1412  cd Applications
+ 1413  Applications
+ 1414  vpnclient
+ 1415  ./setup_router_hk.sh
+ 1416  ip r
+ 1417  git checkout -b bsp/pz6806l
+ 1418  sudo kill -9 4333
+ 1419  sudo killall -9 STM32CubeMX
+ 1420  vi Kconfig
+ 1421  ..
+ 1422  ls
+ 1423  ..
+ 1424  ls
+ 1425  cd stm32f103-prechin-pz6806l
+ 1426  ls
+ 1427  cd board
+ 1428  ls
+ 1429  cd linker_scripts
+ 1430  ls
+ 1431  vi link.sct
+ 1432  ls
+ 1433  vi link.lds
+ 1434  ls
+ 1435  vi link.icf
+ 1436  vi link.sct
+ 1437  vi link.icf
+ 1438  vi link.lds
+ 1439  ..
+ 1440  ls
+ 1441  vi SConscript
+ 1442  sudo apt install gcc-arm-none-eabi
+ 1443  Applications/vpnclient
+ 1444  ./setup_router_hk.sh
+ 1445  sudo apt install gcc-arm-none-eabi
+ 1446  vi template.ewp
+ 1447  menuconfig
+ 1448  env
+ 1449  sudo apt install scons
+ 1450  make menuconfig
+ 1451  scons --menuconfig
+ 1452  sudo apt install libncurses5-dev
+ 1453  ls
+ 1454  vi SConscript
+ 1455  vi SConstruct
+ 1456  ls
+ 1457  vi rtconfig.py
+ 1458  scons --menuconfig
+ 1459  scons
+ 1460  which arm-none-eabi-gcc
+ 1461  vi rtconfig.py
+ 1462  scons
+ 1463  ls
+ 1464  scons
+ 1465  ls
+ 1466  cd build
+ 1467  ls
+ 1468  cd board
+ 1469  ls
+ 1470  cd ..
+ 1471  ls
+ 1472  cd applications
+ 1473  ls
+ 1474  cd ..
+ 1475  ls
+ 1476  cd kernel
+ 1477  ls
+ 1478  cd con
+ 1479  cd components
+ 1480  l
+ 1481  ..
+ 1482  ls
+ 1483  cd src
+ 1484  l
+ 1485  ..
+ 1486  ls
+ 1487  ..
+ 1488  ls
+ 1489  dmesg
+ 1490  Applications/vpnclient
+ 1491  ./stop_router_hk.sh
+ 1492  sudo apt install libusb-1.0-0-dev
+ 1493  ls
+ 1494  cd Applications
+ 1495  ls
+ 1496  git clone https://github.com/texane/stlink.git
+ 1497  git clone https://github.com/texane/stlink.git --depth 1
+ 1498  ls
+ 1499  cd st
+ 1500  cd stlink
+ 1501  l
+ 1502  mkdir build
+ 1503  cd build
+ 1504  cmake ..
+ 1505  make
+ 1506  ls
+ 1507  rm -rf *
+ 1508  ls
+ 1509  cd ..
+ 1510  ls
+ 1511  make release
+ 1512  sudo apt install cmake
+ 1513  ls
+ 1514  vi CMakeLists.txt
+ 1515  make help
+ 1516  make clean
+ 1517  make rebuild_cache
+ 1518  apt search st-link
+ 1519  apt search stlink
+ 1520  apt search stm32
+ 1521  sudo apt install stm32flash
+ 1522  dmesg
+ 1523  ls
+ 1524  dpkg -L stm32flash
+ 1525  stm32flash
+ 1526  sudo stm32flash -o /dev/ttyUSB0 
+ 1527  sudo stm32flash -b 115200 -o /dev/ttyUSB0 
+ 1528  ls
+ 1529  dmesg
+ 1530  sudo stm32flash -b 115200 -o /dev/ttyUSB0 
+ 1531  sudo stm32flash 
+ 1532  sudo stm32flash /dev/ttyUSB0
+ 1533  sudo apt install minicom
+ 1534  stm32flash
+ 1535  stm32flash /dev/ttyUSB0
+ 1536  sudo stm32flash /dev/ttyUSB0
+ 1537  sudo stm32flash -b115200 /dev/ttyUSB0
+ 1538  sudo stm32flash -o /dev/ttyUSB0
+ 1539  arm-none-eabi-objcopy -O hex rt-thread.elf rt-thread.hex
+ 1540  arm-none-eabi-objcopy -O hex rt-thread.hex rt-thread.elf
+ 1541  file rtthread.bin
+ 1542  ls
+ 1543  scons
+ 1544  arm-none-eabi-objcopy -O hex rt-thread.hex rt-thread.elf
+ 1545  ls
+ 1546  scons
+ 1547  ls
+ 1548  arm-none-eabi-objcopy
+ 1549  arm-none-eabi-objcopy -O ihex rt-thread.elf rt-thread.hex
+ 1550  ls
+ 1551  sudo minicom -s /dev/ttyUSB0
+ 1552  dmesg
+ 1553  sudo minicom -s /dev/ttyUSB0
+ 1554  apt search serial
+ 1555  lsusb
+ 1556  sudo minicom -s /dev/ttyUSB0
+ 1557  echo "hello" > /dev/ttyUSB0
+ 1558  sudo echo "hello" > /dev/ttyUSB0
+ 1559  sudo -s
+ 1560  echo "hello" > /dev/ttyUSB0
+ 1561  echo  /dev/ttyUSB0
+ 1562  minicom -s /dev/ttyUSB0
+ 1563  apt search gtkterm
+ 1564  sudo apt install gtkterm
+ 1565  stm32flash
+ 1566  stm32flash /dev/ttyUSB0
+ 1567  sudo stm32flash /dev/ttyUSB0
+ 1568  gtkterm
+ 1569  sudo gtkterm
+ 1570  dmesg
+ 1571  sudo stm32flash /dev/ttyUSB0
+ 1572  sudo stm32flash -g /dev/ttyUSB0
+ 1573  sudo stm32flash -b 115200 /dev/ttyUSB0
+ 1574  sudo stm32flash -b 115200 -w Project/MCU_Project/rt-thread/bsp/stm32/stm32f103-prechin-pz6806l/rt-thread.hex /dev/ttyUSB0
+ 1575  sudo apt install wine1.6
+ 1576  sudo gtkterm
+ 1577  cd Applications
+ 1578  l
+ 1579  cd vpnclient
+ 1580  ls
+ 1581  ./setup_router_hk.sh
+ 1582  Applications
+ 1583  vpnclient
+ 1584  l
+ 1585  ip r
+ 1586  sudo reboot
+ 1587  sudo apt-get install ntpdate
+ 1588  sudo ntpdate time.windows.com
+ 1589  sudo hwclock --localtime --systohc
+ 1590  \n
+ 1591  git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git --depth 1
+ 1592  ls
+ 1593  ifconfig
+ 1594  ls
+ 1595  cd Applications
+ 1596  ls
+ 1597  cd vpnclient
+ 1598  l
+ 1599  vi setup_router_hk.sh
+ 1600  vi stop_router_hk.sh
+ 1601  ./setup_router_hk.sh
+ 1602  ip r
+ 1603  git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git --depth 1
+ 1604  ./stop_router_hk.sh
+ 1605  ip r
+ 1606  git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git --depth 1
+ 1607  ./setup_router_hk.sh
+ 1608  ip r
+ 1609  ls
+ 1610  ./vpnclient
+ 1611  ./vpnc md
+ 1612  ./vpncmd
+ 1613  ./stop_router_hk.sh
+ 1614  ./setup_router_hk.sh
+ 1615  git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git --depth 1
+ 1616  Applications
+ 1617  ls
+ 1618  vpnclient
+ 1619  lk
+ 1620  l
+ 1621  ./stop_router_hk.sh
+ 1622  git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git --depth 1
+ 1623  nvidia-smi
+ 1624  cuda
+ 1625  nvcc --version
+ 1626  ls
+ 1627  cd openpose
+ 1628  l
+ 1629  ls
+ 1630  mkdir build
+ 1631  sudo apt install cmake-gui
+ 1632  Project
+ 1633  l
+ 1634  ML
+ 1635  kl
+ 1636  ML_Project
+ 1637  l
+ 1638  cd openpose
+ 1639  kl
+ 1640  l
+ 1641  ls
+ 1642  cmake-gui
+ 1643  l
+ 1644  cd scripts
+ 1645  l
+ 1646  cd ubuntu
+ 1647  l
+ 1648  vi install_deps.sh
+ 1649  ./install_deps
+ 1650  chmod 755 install_deps.sh
+ 1651  ./install_deps.sh
+ 1652  apt install gcc-arm-linux-gnueabihf
+ 1653  sudo apt install thefuck
+ 1654  sudo apt install gcc-arm-linux-gnueabihf
+ 1655  arm-linux-gnueabihf-gcc
+ 1656  arm-linux-gnueabihf-gcc --version
+ 1657  sudo apt install qemu-user-static
+ 1658  ls
+ 1659  cd Project
+ 1660  l
+ 1661  cd EMB_Project
+ 1662  l
+ 1663  ubuntu-base
+ 1664  l
+ 1665  cp -r ubuntu-base-18.04.2-base-armhf nanopi-m1p
+ 1666  ls
+ 1667  cd nanopi-m1p
+ 1668  l
+ 1669  cp /usr/bin/qemu-arm-static usr/bin
+ 1670  vi /etc/resolv.conf
+ 1671  vi etc/resolv.conf
+ 1672  sudo cp -b /etc/resolv.conf etc/resolv.conf
+ 1673  vi etc/apt/sources.list
+ 1674  ls
+ 1675  l
+ 1676  cd ,,
+ 1677  cd ..
+ 1678  kl
+ 1679  k
+ 1680  l
+ 1681  chroot nanopi-m1p
+ 1682  sudo chroot nanopi-m1p
+ 1683  ls
+ 1684  cd Applications
+ 1685  l
+ 1686  cd vpnclient
+ 1687  l
+ 1688  ./setup_router_hk.sh
+ 1689  ls
+ 1690  dd if=/dev/zero of=ubuntu.img bs=1M count=300
+ 1691  sudo mkfs.ext4 ubuntu.img
+ 1692  mkdir ubuntu_image
+ 1693  mount ubuntu.img ubuntu_image
+ 1694  sudo mount ubuntu.img ubuntu_image
+ 1695  sudo cp -rfp nanopi-m1p/* ubuntu_image
+ 1696  sudo umount ubuntu_image
+ 1697  e2fsck -p -f ubuntu.img
+ 1698  resize2fs -M ubuntu.img
+ 1699  sudo minicom -s /dev/ttyUSB0
+ 1700  xz -d ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img.xz
+ 1701  fdisk ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img
+ 1702  mkdir rootfs
+ 1703  mount ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img rootfs
+ 1704  sudo !
+ 1705  sudo mount ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img rootfs
+ 1706  fdisk -lu ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img
+ 1707  sudo mount -o loop,offset=209715200 ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img rootfs
+ 1708  ls
+ 1709  cd rootfs
+ 1710  ls
+ 1711  cd ..
+ 1712  ls
+ 1713  mkdir boot
+ 1714  sudo mount -o loop,offset=1048576 ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img boot
+ 1715  ls
+ 1716  sudo umount rootfs
+ 1717  sudo mount -o loop,offset=1048576 ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img boot
+ 1718  cd boot
+ 1719  ls
+ 1720  file uboot.bin
+ 1721  vi cmdline.txt
+ 1722  ls
+ 1723  vi config.txt
+ 1724  cd overlays
+ 1725  ls
+ 1726  ..
+ 1727  ls
+ 1728  ..
+ 1729  ls
+ 1730  ubuntu-mate
+ 1731  ls
+ 1732  umount boot
+ 1733  sudo umount boot
+ 1734  sudo mount -o loop,offset=209715200 ubuntu-mate-18.04.2-beta1-desktop-armhf+raspi-ext4.img rootfs
+ 1735  cd rootfs
+ 1736  l
+ 1737  ls
+ 1738  cd boot
+ 1739  l
+ 1740  cd ..
+ 1741  ls
+ 1742  cd ..
+ 1743  cp /usr/bin/qemu-arm-static rootfs/usr/bin
+ 1744  sudo cp /usr/bin/qemu-arm-static rootfs/usr/bin
+ 1745  sudo chroot rootfs
+ 1746  ls
+ 1747  cd rootfs
+ 1748  ls
+ 1749  cd ..
+ 1750  ls
+ 1751  dd if=/dev/zero of=mate.image bs=1024 count=3000
+ 1752  ls
+ 1753  ll
+ 1754  rm mate.image
+ 1755  dd if=/dev/zero of=mate.image bs=1M count=3000
+ 1756  ls
+ 1757  mkdir mate
+ 1758  mkfs.ext4 mate.image
+ 1759  mount mate.image mate
+ 1760  sudo mount mate.image mate
+ 1761  ls
+ 1762  cp -rpf rootfs/* mate
+ 1763  sudo cp -rpf rootfs/* mate
+ 1764  ls
+ 1765  free
+ 1766  fs
+ 1767  fdick
+ 1768  fdisk
+ 1769  fdisk -a
+ 1770  fdisk --help
+ 1771  fdisk -l
+ 1772  sudo fdisk -l
+ 1773  ls
+ 1774  sudo umount mate
+ 1775  rm -rf mate/ mate.image
+ 1776  dd if=/dev/zero of=mate.image bs=1M count=5000
+ 1777  ls
+ 1778  mkfs.ext4 mate.image
+ 1779  ls
+ 1780  cd rootfs
+ 1781  ls
+ 1782  cd ..
+ 1783  ls
+ 1784  mkdir mate
+ 1785  sudo mount mate.image mate
+ 1786  sudo cp -rpf rootfs/* mate
+ 1787  LS
+ 1788  ls
+ 1789  sudo mount mate
+ 1790  sudo umount mate
+ 1791  sudo resize2fs -M mate.image
+ 1792  e2fsck -f mate.image
+ 1793  sudo resize2fs -M mate.image
+ 1794  e2fsck -p -f mate.image
+ 1795  sudo resize2fs -M mate.image
+ 1796  sudo umount rootfs
+ 1797  ./install_deps.sh
+ 1798  Applications/vpnclient
+ 1799  ./setup_router_hk.sh
+ 1800  ./install_deps.sh
+ 1801  Applications/vpnclient
+ 1802  ./setup_router_hk.sh
+ 1803  ip r
+ 1804  ./install_deps.sh
+ 1805  ls
+ 1806  ..
+ 1807  apt search cuDNN
+ 1808  apt search cudnn
+ 1809  Applications
+ 1810  vpnclient
+ 1811  l
+ 1812  ./stop_router_hk.sh
+ 1813  ./setup_router_hk.sh
+ 1814  ./stop_router_hk.sh
+ 1815  ./setup_router_hk.sh
+ 1816  ..
+ 1817  ls
+ 1818  cd ..
+ 1819  ls
+ 1820  cd ..
+ 1821  ls
+ 1822  ..
+ 1823  Applications
+ 1824  ls
+ 1825  vpnclient
+ 1826  l
+ 1827  ./setup_router_hk.sh
+ 1828  ip r
+ 1829  sudo minicom -s /dev/ttyUSB0
+ 1830  Applications/vpnclient
+ 1831  l
+ 1832  ./stop_router_hk.sh
+ 1833  sudo minicom -s /dev/ttyUSB0
+ 1834  vi /etc/resolv.conf
+ 1835  apt search openpose
+ 1836  cd /usr/share/doc/opencv-data
+ 1837  ls
+ 1838  cd ..
+ 1839  ls
+ 1840  cd
+ 1841  ls
+ 1842  apt search opencv
+ 1843  git clone https://github.com/CmST0us/camera_calibration.git
+ 1844  sudo minicom -s /dev/ttyUSB0
+ 1845  git diff
+ 1846  git add CMakeLists.txt main.cpp
+ 1847  git diff
+ 1848  git status
+ 1849  vi .gitignore
+ 1850  git staus
+ 1851  git status
+ 1852  git add .gitignore
+ 1853  git commit -m "Feat: First version of camera calibration"
+ 1854  git push
+ 1855  file boot.img
+ 1856  file idbloader.img
+ 1857  file kernel.img
+ 1858  file MiniLoaderAll.bin
+ 1859  file resource.img
+ 1860  file rootfs.img
+ 1861  fdisk rootfs.img
+ 1862  fil userdata.img
+ 1863  file userdata.img
+ 1864  fdisk userdata.img
+ 1865  sudo apt install fastboot
+ 1866  dmesg
+ 1867  fastboot
+ 1868  fastboot -h
+ 1869  fastboot -c
+ 1870  fastboot adb
+ 1871  abd
+ 1872  adb
+ 1873  adb shell
+ 1874  adb install MobileAssistant_1.apk
+ 1875  adb install QuarkBrowser_V3.4.0.113_android_pf3300_\(Build190705081505\).apk
+ 1876  adb install weixin705android1440.apk
+ 1877  sudo minicom -s /dev/ttyUSB0
+ 1878  dmesg
+ 1879  cp config_origin .config
+ 1880  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 1881  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- 
+ 1882  ls
+ 1883  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- 
+ 1884  sudo apt install openssl
+ 1885  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- 
+ 1886  sudo apt install openssl1.0
+ 1887  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- 
+ 1888  sudo apt install libssl-dev 
+ 1889  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- 
+ 1890  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- -j4
+ 1891  vi .BoardConfig.mk
+ 1892  vi rk3399-nanopi4-rev06.dts
+ 1893  vi rk3399-nanopi4-rev04.dts
+ 1894  vi rk3399-nanopi4-rev06.dts
+ 1895  dtc 
+ 1896  sudo apt install dtc
+ 1897  sudo apt install device-tree-compiler
+ 1898  dtc
+ 1899  dtc -h
+ 1900  dtc -I dtb -O dts -o som-3399.txt rk3399-nanopi4-rev06.dtb
+ 1901  mv som-3399.txt ~/Project/EMB_Project/rockchip/rk3399/kernel_config
+ 1902  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu-
+ 1903  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 1904  ls
+ 1905  vi .BoardConfig.mk
+ 1906  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev06.img
+ 1907  sudo apt install lzip
+ 1908  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev06.img
+ 1909  sudo apt install liblz4-tool
+ 1910  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev06.img
+ 1911  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 1912  cp ../kernel_config/config_origin .config
+ 1913  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 1914  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev06.img
+ 1915  sudo minicom -s /dev/ttyUSB0
+ 1916  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 1917  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev06.img
+ 1918  ls
+ 1919  cd tools
+ 1920  ls
+ 1921  cd ..
+ 1922  ls
+ 1923  sudo fdisk /dev/sdc
+ 1924  sudo dd if=boot.img of=/dev/sdc seek=32768
+ 1925  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules/
+ 1926  dmesg
+ 1927  file boot.img
+ 1928  fdisk boot.img
+ 1929  mkdir -p /media/eki/
+ 1930  mkdir -p /media/eki/tmp
+ 1931  ls
+ 1932  mkdir tmpboot
+ 1933  mount boot.img tmpboot
+ 1934  sudo mount boot.img tmpboot
+ 1935  file kernel
+ 1936  file kernel.img
+ 1937  cd ..
+ 1938  ls
+ 1939  sudo dd if=kernel.img of=/dev/sdc seek=10000
+ 1940  sudo minicom -s /dev/ttyUSB0
+ 1941  sudo fastboot
+ 1942  sudo fastboot device
+ 1943  sudo fastboot help
+ 1944  sudo fastboot devices
+ 1945  sudo fdisk /dev/sdc
+ 1946  gdisk /dev/sdc
+ 1947  sudo gdisk /dev/sdc
+ 1948  git clone https://github.com/rockchip-linux/u-boot.git --depth 1
+ 1949  git clone https://github.com/rockchip-linux/rkbin.git
+ 1950  git clone https://github.com/rockchip-linux/rkbin.git --depth 1
+ 1951  ls
+ 1952  cd ut
+ 1953  cd u-boot
+ 1954  ls
+ 1955  git pull
+ 1956  glog
+ 1957  make CROSS_COMPILE=aarch64-linux-gnu- rk3399_defconfig
+ 1958  vi configs/rk3399_defconfig
+ 1959  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 1960  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 1961  ls
+ 1962  cd rkbin
+ 1963  ls
+ 1964  cd scripts
+ 1965  ls
+ 1966  ..
+ 1967  ls
+ 1968  cd RKBOOT
+ 1969  ls
+ 1970  vi RK3399MINIALL.ini
+ 1971  cd tpl
+ 1972  ls
+ 1973  cd ..
+ 1974  ls
+ 1975  cd spl
+ 1976  ls
+ 1977  cd ..
+ 1978  ls
+ 1979  vi make.sh
+ 1980  ls
+ 1981  ./make.sh
+ 1982  vi make.sh
+ 1983  which aarch64-linux-gnu-gcc
+ 1984  ./make.sh
+ 1985  ./make.sh uboot
+ 1986  ./make.sh help
+ 1987  ./make.sh trust
+ 1988  ./make.sh loader
+ 1989  ./make.sh trust
+ 1990  tools/mkimage -n rk3399 -T rksd -d tpl/u-boot-tpl.bin idbloader.img
+ 1991  cat spl/u-boot-spl.bin >> idbloader.img
+ 1992  sudo fdisk /dev/sdc
+ 1993  sync
+ 1994  ls /dev/sdc
+ 1995  dd if=idbloader.img of=sdb seek=64
+ 1996  rm sdb
+ 1997  sudo dd if=idbloader.img of=/dev/sdc seek=64
+ 1998  make CROSS_COMPILE=aarch64-linux-gnu- u-boot.itb
+ 1999  pip install elftools
+ 2000  pip search elftools
+ 2001  pip3 search elftools
+ 2002  pip3 install pyelftools
+ 2003  make CROSS_COMPILE=aarch64-linux-gnu- u-boot.itb
+ 2004  pip install pyelftools
+ 2005  pip3 install pyelftools
+ 2006  pip search pyelftools
+ 2007  pip search \elftools
+ 2008  pip search elftools
+ 2009  pip install elftools
+ 2010  pip3 install elftools
+ 2011  Applications
+ 2012  vpnclient
+ 2013  ls
+ 2014  ./setup_router_hk.sh
+ 2015  pip3 install elftools
+ 2016  make CROSS_COMPILE=aarch64-linux-gnu- u-boot.itb
+ 2017  sudo dd if=u-boot.itb of=/dev/sdc seek=16384
+ 2018  sync
+ 2019  ..
+ 2020  ls
+ 2021  cd kernel
+ 2022  ls
+ 2023  sudo dd if=boot.img of=/dev/sdc seek=32768
+ 2024  sync
+ 2025  sudo minicom -s /dev/ttyUSB0
+ 2026  dd if=/dev/zero of=gpt.img bs=1M count=300
+ 2027  dd if=/dev/zero of=gpt.img count=64
+ 2028  dd if=/dev/zero of=gpt.img bs=1M count=8192
+ 2029  dd if=/dev/zero of=gpt.img bs=1M count=300
+ 2030  gdisk gpt.img
+ 2031  gdisk -h
+ 2032  gdisk 
+ 2033  gdisk --help
+ 2034  gdisk -l
+ 2035  gdisk
+ 2036  gdisk gpt.img
+ 2037  ls
+ 2038  dd if=gpt.img of=sd_gpt.img bs=1K count=36
+ 2039  gdisk sd_gpt.img
+ 2040  ls
+ 2041  sudo apt install hexedit
+ 2042  hexedit sd_gpt.img
+ 2043  mv sd_gpt.img sd_boot.img
+ 2044  dd if=sd_boot.img of=/dev/sdc
+ 2045  sudo dd if=sd_boot.img of=/dev/sdc
+ 2046  sudo gdisk /dev/sdc
+ 2047  tools/mkimage -n rk3399 -T rksd -d rk3399_ddr_800MHz_v1.23.bin idbloader.img
+ 2048  cat rk3399_loader_v1.23.119.bin >> idbloader.img
+ 2049  sudo gdisk /dev/sdc
+ 2050  sudo dd if=idbloader.img of=/dev/sdc1
+ 2051  sudo dd if=uboot.img of=/dev/sdc2
+ 2052  sudo dd if=trust.img of=/dev/sdc3
+ 2053  ..
+ 2054  ls
+ 2055  cd kernel
+ 2056  ls
+ 2057  sudo dd if=boot.img of=/dev/sdc4
+ 2058  sync
+ 2059  sudo minicom -s /dev/ttyUSB0
+ 2060  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2061  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2062  sudo dd if=u-boot.img of=/dev/sdc2
+ 2063  sync
+ 2064  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2065  vi .config
+ 2066  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2067  ls
+ 2068  sudo dd if=u-boot.img of=/dev/sdc2
+ 2069  sync
+ 2070  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2071  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2072  sudo dd if=u-boot.img of=/dev/sdc2
+ 2073  sync
+ 2074  make clean
+ 2075  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2076  sudo dd if=u-boot.img of=/dev/sdc2
+ 2077  sync
+ 2078  make distclean
+ 2079  make clean
+ 2080  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2081  make CROSS_COMPILE=aarch64-linux-gnu- rk3399_defconfig
+ 2082  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2083  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2084  sudo dd if=u-boot.img of=/dev/sdc2
+ 2085  sync
+ 2086  make clean
+ 2087  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2088  make CROSS_COMPILE=aarch64-linux-gnu- u-boot.img
+ 2089  sudo dd if=/dev/zero of=/dev/sdc2
+ 2090  sync
+ 2091  sudo dd if=u-boot.img of=/dev/sdc2
+ 2092  sync
+ 2093  sudo dd if=u-boot.img of=/dev/sdc2
+ 2094  sudo hexedit /dev/sdc1
+ 2095  sudo hexedit /dev/sdc
+ 2096  sudo hexedit /dev/sdc1
+ 2097  sudo hexedit /dev/sdc
+ 2098  sync
+ 2099  sudo gdisk /dev/sdc
+ 2100  sync
+ 2101  sudo dd if=u-boot.img of=/dev/sdc2
+ 2102  sync
+ 2103  ./make.sh --help
+ 2104  ./make.sh uboot
+ 2105  vi make.sh
+ 2106  ./make.sh uboot
+ 2107  vi make.sh
+ 2108  git diff
+ 2109  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2110  ./make.sh uboot
+ 2111  sudo dd if=uboot.img of=/dev/sdc2
+ 2112  sync
+ 2113  ls
+ 2114  ..
+ 2115  ls
+ 2116  cd kernel
+ 2117  ls
+ 2118  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2119  sudo gdisk /dev/sdc
+ 2120  sudo dd if=boot.img of=/dev/sdc4
+ 2121  sync
+ 2122  sudo mkfs.fat /dev/sdc4
+ 2123  cp arch/arm64/boot/Image /media/eki/2326-7592
+ 2124  cp arch/arm64/boot/dts/rockchip/rk3399-nanopi4-rev06.dtb /media/eki/2326-7592
+ 2125  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev06.img
+ 2126  sudo dd if=boot.img of=/dev/sdc4
+ 2127  sync
+ 2128  sudo minicom -s /dev/ttyUSB0
+ 2129  sudo gdisk /dev/sdc
+ 2130  ls rk3399-nanopi4-rev04.dts
+ 2131  vi rk3399-nanopi4-rev04.dts
+ 2132  vi rk3399-nanopi4-rev01.dts
+ 2133  dtc -I dtb -O dts -o nanopim4.txt rk3399-nanopi4-rev01.dtb
+ 2134  mv nanopim4.txt ../../../../../../kernel_config/nanopi-m4.txt
+ 2135  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2136  ../../../../../..
+ 2137  lls
+ 2138  l
+ 2139  cd kernel
+ 2140  l
+ 2141  sudo dd if=boot.img of=/dev/sdc4
+ 2142  sync
+ 2143  ls
+ 2144  sudo dd if=uboot.img of=/dev/sdc2
+ 2145  sudo rm /dev/sdc2
+ 2146  sudo dd if=uboot.img of=/dev/sdc2
+ 2147  rm /dev/sdc2
+ 2148  sudo rm /dev/sdc2
+ 2149  sudo gdisk /dev/sdc
+ 2150  sync
+ 2151  sudo gdisk /dev/sdc
+ 2152  ls /dev/sdc2
+ 2153  sudo dd if=uboot.img of=/dev/sdc2
+ 2154  sync
+ 2155  sudo dd if=boot.img of=/dev/sdc4
+ 2156  sync
+ 2157  dmesg
+ 2158  sudo dd if=rk3399-sd-friendlycore-bionic-4.4-arm64-20190625.img of=/dev/sdc
+ 2159  hexedit rk3399-sd-friendlycore-bionic-4.4-arm64-20190625.img
+ 2160  sync
+ 2161  gdisk gpt.img
+ 2162  vi gpt
+ 2163  ls
+ 2164  sudo gdisk /dev/sdc
+ 2165  ls
+ 2166  sudo dd if=sd_boot.img of=/dev/sdc
+ 2167  sync
+ 2168  sudo gdisk /dev/sdc
+ 2169  tools/mkimage -n rk3399 -T rksd -d rk3399_ddr_800MHz_v1.23.bin idbloader.img
+ 2170  cat rk3399_loader_v1.23.119.bin >> idbloader.img
+ 2171  cat rk3399_miniloader_v1.19.bin >> idbloader.img
+ 2172  sudo dd if=idbloader.img of=/dev/sdc1
+ 2173  sudo /dev/sdc1
+ 2174  sudo hexedit /dev/sdc1
+ 2175  sync
+ 2176  sudo dd if=uboot.img of=/dev/sdc2
+ 2177  sync
+ 2178  sudo hexedit /dev/sdc
+ 2179  sudo gdisk /dev/sdc
+ 2180  ..
+ 2181  ls
+ 2182  gdisk gpt.img
+ 2183  l
+ 2184  dd if=gpt.img of=sd_gpt.img bs=1K count=36
+ 2185  sync
+ 2186  sudo gdisk /dev/sdc
+ 2187  sudo hexedit /dev/sdc
+ 2188  tools/mkimage -n rk3399 -T rksd -d rk3399_ddr_800MHz_v1.23.bin idbloader.img
+ 2189  cat rk3399_miniloader_v1.19.bin >> idbloader.img
+ 2190  hexedit idbloader.img
+ 2191  rm idbloader.img
+ 2192  tools/mkimage -n rk3399 -T rksd -d rk3399_ddr_800MHz_v1.23.bin idbloader.img
+ 2193  cat rk3399_miniloader_v1.19.bin >> idbloader.img
+ 2194  hexedit idbloader.img
+ 2195  sudo dd if=idbloader.img of=/dev/sdc1
+ 2196  sync
+ 2197  sudo hexedit /dev/sdc1
+ 2198  sudo dd if=uboot.img of=/dev/sdc2
+ 2199  ..
+ 2200  cd kernel
+ 2201  ..
+ 2202  gdisk sd_gpt.img
+ 2203  ls
+ 2204  sudo dd if=boot.img of=/dev/sdc4
+ 2205  ls
+ 2206  ..
+ 2207  ls
+ 2208  cd u-boot
+ 2209  ls
+ 2210  sudo dd if=trust.img of=/dev/sdc3
+ 2211  ./make.sh trust
+ 2212  sudo dd if=trust.img of=/dev/sdc3
+ 2213  sync
+ 2214  vi trust.img
+ 2215  vi make.sh
+ 2216  sudo dd if=trust.img of=/dev/sdc3
+ 2217  ..
+ 2218  ls
+ 2219  cd kernel
+ 2220  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2221  sudo dd if=boot.img of=/dev/sdc4
+ 2222  sync
+ 2223  sudo gdisk /dev/sdc
+ 2224  sudo dd if=/dev/zero of=/dev/sdc1
+ 2225  sudo dd if=/dev/zero of=/dev/sdc2
+ 2226  sudo dd if=/dev/zero of=/dev/sdc3
+ 2227  sudo dd if=/dev/zero of=/dev/sdc4
+ 2228  sudo dd if=idbloader.img of=/dev/sdc1
+ 2229  sudo dd if=uboot.img of=/dev/sdc2
+ 2230  sudo dd if=trust.img of=/dev/sdc3
+ 2231  cd ..
+ 2232  ls
+ 2233  cd kernel
+ 2234  ls
+ 2235  sudo dd if=boot.img of=/dev/sdc4
+ 2236  sync
+ 2237  sudo hexedit /dev/sdc
+ 2238  sync
+ 2239  sudo hexedit /dev/sdc
+ 2240  ls
+ 2241  sudo dd if=/dev/zero of=/dev/sdc bs=1M count=30
+ 2242  sync
+ 2243  dmes
+ 2244  dmesg
+ 2245  sudo dd if=MiniLoaderAll.bin of=/dev/sdc seek=64
+ 2246  sync
+ 2247  sudo hexedit /dev/sdc
+ 2248  sudo dd if=idbloader.img of=/dev/sdc seek=64
+ 2249  sync
+ 2250  sudo dd if=trust.img of=/dev/sdc seek=24576
+ 2251  sync
+ 2252  sudo dd if=uboot.img of=/dev/sdc seek=16384
+ 2253  sync
+ 2254  cd ..
+ 2255  ls
+ 2256  kernel
+ 2257  sudo dd if=boot.img of=/dev/sdc seek=32768
+ 2258  sync
+ 2259  sudo dd if=uboot.img of=/dev/sdc seek=16384
+ 2260  sync
+ 2261  ..
+ 2262  ls
+ 2263  cd u-boot
+ 2264  ls
+ 2265  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2266  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2267  ./make.sh uboot
+ 2268  sudo dd if=uboot.img of=/dev/sdc seek=16384
+ 2269  sync
+ 2270  dmesg
+ 2271  sudo dd if=gpt.img of=/dev/sdc
+ 2272  sudo dd if=sd_gpt.img of=/dev/sdc
+ 2273  sync
+ 2274  sudo gdisk /dev/sdc
+ 2275  sudo dd if=idbloader.img of=/dev/sdc1
+ 2276  sudo dd if=uboot.img of=/dev/sdc2
+ 2277  sudo dd if=trust.img of=/dev/sdc3
+ 2278  ..
+ 2279  kernel
+ 2280  sudo dd if=boot.img of=/dev/sdc4
+ 2281  sync
+ 2282  sudo apt install debootstrap
+ 2283  ls
+ 2284  mkdir rootfs
+ 2285  cd rootfs
+ 2286  l
+ 2287  ls
+ 2288  debootstrap --arch=arm64 --foreign stretch http://mirrors.aliyun.com/debian/
+ 2289  debootstrap --arch=arm64 --foreign stretch fs_debian_stretch http://mirrors.aliyun.com/debian/
+ 2290  sudo debootstrap --arch=arm64 --foreign stretch fs_debian_stretch http://mirrors.aliyun.com/debian/
+ 2291  ls
+ 2292  cp /usr/bin/qemu-arm-static fs_debian_stretch/usr/bin
+ 2293  sudo cp /usr/bin/qemu-arm-static fs_debian_stretch/usr/bin
+ 2294  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch
+ 2295  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch fs_debian_stretch/usr/bin/qemu-arm-static
+ 2296  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch qemu-arm-static
+ 2297  ls
+ 2298  cd fs_debian_stretch
+ 2299  ls
+ 2300  cd debootstrap
+ 2301  ls
+ 2302  cd ..
+ 2303  ls
+ 2304  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch debootstrap/debootstrap --second-stage
+ 2305  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch /debootstrap/debootstrap --second-stage
+ 2306  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch ./debootstrap/debootstrap --second-stage
+ 2307  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch /usr/bin
+ 2308  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch /usr/bin/bash
+ 2309  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch bash
+ 2310  ls
+ 2311  cd fs_debian_stretch
+ 2312  ls
+ 2313  cd bin
+ 2314  ls
+ 2315  qemu-arm-static bash
+ 2316  cd ..
+ 2317  ls
+ 2318  cd usr
+ 2319  ls
+ 2320  cd bin
+ 2321  ls
+ 2322  rm qemu-arm-static
+ 2323  sudo rm qemu-arm-static
+ 2324  cp /usr/bin/qemu-aarch64-static .
+ 2325  sudo cp /usr/bin/qemu-aarch64-static .
+ 2326  ..
+ 2327  sudo DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true LC_ALL=C LANGUAGE=C LANG=C chroot fs_debian_stretch debootstrap/debootstrap --second-stage
+ 2328  sudo chroot fs_debian_stretch
+ 2329  ls
+ 2330  cd fs_debian_stretch
+ 2331  ls
+ 2332  cd lib
+ 2333  ls
+ 2334  cd ..
+ 2335  ls
+ 2336  ..
+ 2337  ls
+ 2338  sudo gdisk /dev/sdc
+ 2339  sudo mkfs.ext4 /dev/sdc5
+ 2340  ls
+ 2341  mkdir mount
+ 2342  mount /dev/sdc5 mount
+ 2343  sudo mount /dev/sdc5 mount
+ 2344  sudo cp -cpf fs_debian_stretch/* mount
+ 2345  sudo cp -rpf fs_debian_stretch/* mount
+ 2346  cd mount
+ 2347  ls
+ 2348  sync
+ 2349  ls
+ 2350  cd ..
+ 2351  umount mount
+ 2352  sudo umount mount
+ 2353  ls
+ 2354  dd if=/dev/zero of=rootfs.img bs=1M count=200
+ 2355  ls
+ 2356  mkfs.ext4 rootfs.img
+ 2357  mount rootfs.img mount
+ 2358  sudo mount rootfs.img mount
+ 2359  sudo cp -rpf fs_debian_stretch/* mount
+ 2360  ls
+ 2361  sudo umount mount
+ 2362  rm -rf rootfs.img
+ 2363  dd if=/dev/zero of=rootfs.img bs=1M count=400
+ 2364  sudo mount rootfs.img mount
+ 2365  mkfs.ext4 rootfs.img
+ 2366  sudo mount rootfs.img mount
+ 2367  sudo cp -rpf fs_debian_stretch/* mount
+ 2368  sudo umount mount
+ 2369  rm -rf rootfs.img
+ 2370  dd if=/dev/zero of=rootfs.img bs=1M count=1024
+ 2371  sudo mount rootfs.img mount
+ 2372  mkfs.ext4 rootfs.img
+ 2373  sudo mount rootfs.img mount
+ 2374  sudo cp -rpf fs_debian_stretch/* mount
+ 2375  sync
+ 2376  sudo umount mount
+ 2377  ls
+ 2378  resize2fs -F rootfs.img
+ 2379  resize2fs -f rootfs.img
+ 2380  resize2fs rootfs.img
+ 2381  e2fsck -a -f rootfs.img
+ 2382  resize2fs rootfs.img
+ 2383  resize2fs -f rootfs.img
+ 2384  resize2fs  rootfs.img
+ 2385  ll
+ 2386  resize2fs -P rootfs.img
+ 2387  resize2fs rootfs.img 157000
+ 2388  ll
+ 2389  sudo mount rootfs.img mount
+ 2390  cd mount
+ 2391  ls
+ 2392  cd ..
+ 2393  ls
+ 2394  sudo umount mount
+ 2395  sync
+ 2396  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2397  make CROSS_COMPILE=aarch64-linux-gnu- 
+ 2398  ./make.sh uboot
+ 2399  sudo dd if=uboot.img of=/dev/sdc2
+ 2400  sync
+ 2401  cd ..
+ 2402  ls
+ 2403  cd kernel
+ 2404  ls
+ 2405  mkdir boot
+ 2406  cp arch/arm64/boot/dts/rockchip/rk3399-nanopi4-rev01.dtb boot/rk3399.dtb
+ 2407  cp arch/arm64/boot/Image boot
+ 2408  cd boot
+ 2409  ls
+ 2410  mv rk3399.dtb rk-kernel.dtb
+ 2411  ls
+ 2412  mkdir extlinux
+ 2413  cd extlinux
+ 2414  vi extlinux.conf
+ 2415  ls
+ 2416  sudo gdisk /dev/sdc
+ 2417  sudo blkid
+ 2418  dd if=/dev/zero of=boot.img bs=1M count=32
+ 2419  sudo mkfs.fat boot.img
+ 2420  mkdir tmp
+ 2421  sudo mount boot.img tmp
+ 2422  ls
+ 2423  sudo umount tmp
+ 2424  rm boot.img
+ 2425  rm -r tmp
+ 2426  cd ..
+ 2427  ls
+ 2428  ..
+ 2429  mkdir tmp
+ 2430  dd if=/dev/zero of=boot.img bs=1M count=32
+ 2431  mkdir tmp
+ 2432  mkdir mount
+ 2433  sudo mount boot.img mount
+ 2434  sudo mkfs.fat boot.img
+ 2435  sudo mount boot.img mount
+ 2436  cp -rpf boot/* mount
+ 2437  sudo cp -rpf boot/* mount
+ 2438  sudo cp -r boot/* mount
+ 2439  sudo umount mount
+ 2440  rm -r mo
+ 2441  rm -r mount
+ 2442  ls
+ 2443  sudo dd if=boot.img of=/dev/sdc4
+ 2444  sudo gdisk /dev/sdc
+ 2445  sync
+ 2446  ls
+ 2447  mkdir mount
+ 2448  dd if=/dev/zero of=boot.img bs=1M count=32
+ 2449  sudo apt install genext2fs
+ 2450  genext2fs -h
+ 2451  genext2fs -b 32768 -B $((32*1024*1024/32768 -d boot/ -i 8192 -U boot.img\n
+ 2452  genext2fs -b 32768 -B $((32*1024*1024/32768)) -d boot/ -i 8192 -U boot.img\n
+ 2453  sudo dd if=boot.img of=/dev/sdc4
+ 2454  sync
+ 2455  file boot.img
+ 2456  rm boot
+ 2457  rm boot.img
+ 2458  dd if=/dev/zero of=boot.img bs=1M count=32
+ 2459  mkfs.ext2 boot.img
+ 2460  mkdir mount
+ 2461  sudo mount boot.img mount
+ 2462  cp -rpf boot/* mount
+ 2463  sudo cp -rpf boot/* mount
+ 2464  sudo umount mount
+ 2465  sudo dd if=boot.img of=/dev/sdc4
+ 2466  sync
+ 2467  ..
+ 2468  ls
+ 2469  cd u-boot
+ 2470  ls
+ 2471  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2472  ..
+ 2473  ls
+ 2474  cd kernel
+ 2475  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2476  sudo gdisk /dev/sdc
+ 2477  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2478  vi arch/arm64/boot/dts/rockchip/rk3399-nanopi4-rev01.dts
+ 2479  vi arch/arm64/boot/dts/rockchip/rk3399-nanopi4-common.dtsi
+ 2480  vi arch/arm64/boot/dts/rockchip/rk3399-linux.dtsi
+ 2481  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2482  sudo dd if=boot.img of=/dev/sdc4
+ 2483  sync
+ 2484  vi arch/arm64/boot/dts/rockchip/rk3399-linux.dtsi
+ 2485  blkid
+ 2486  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2487  vi arch/arm64/boot/dts/rockchip/rk3399-linux.dtsi
+ 2488  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2489  sudo dd if=boot.img of=/dev/sdc4
+ 2490  sync
+ 2491  sudo chroot fs_debian_stretch
+ 2492  vi arch/arm64/boot/dts/rockchip/rk3399-linux.dtsi
+ 2493  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2494  sudo dd if=boot.img of=/dev/sdc4
+ 2495  sync
+ 2496  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules/
+ 2497  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2498  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules/
+ 2499  ls
+ 2500  ..
+ 2501  ls
+ 2502  cd modules
+ 2503  ls
+ 2504  cd lib
+ 2505  ls
+ 2506  sudo cp -r modules '/media/eki/32f386ca-5de9-4cd8-b4f3-afbc9beae205/lib' 
+ 2507  sync
+ 2508  blkid
+ 2509  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2510  vi arch/arm64/boot/dts/rockchip/rk3399-linux.dtsi
+ 2511  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2512  sudo dd if=boot.img of=/dev/sdc4
+ 2513  sync
+ 2514  vi arch/arm64/boot/dts/rockchip/rk3399-linux.dtsi
+ 2515  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2516  sudo dd if=boot.img of=/dev/sdc4
+ 2517  sync
+ 2518  sudo gdisk /dev/sdc
+ 2519  sudo dd if=boot.img of=/dev/sdc4
+ 2520  sync
+ 2521  sudo minicom -s /dev/ttyUSB0
+ 2522  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2523  sudo minicom -s /dev/ttyUSB0
+ 2524  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules/
+ 2525  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2526  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules/
+ 2527  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2528  vi scripts/Makefile.fwinst
+ 2529  install --help
+ 2530  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules
+ 2531  make -n ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules
+ 2532  vi scripts/Makefile.fwinst
+ 2533  make -n ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- firmware_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules
+ 2534  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- firmware_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules
+ 2535  make -n ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules
+ 2536  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399_defconfig
+ 2537  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rockchip_defconfig
+ 2538  make -n ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=~/Project/EMB_Project/rockchip/rk3399/modules
+ 2539  make -n ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=/home/eki/Project/EMB_Project/rockchip/rk3399/modules
+ 2540  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=/home/eki/Project/EMB_Project/rockchip/rk3399/modules
+ 2541  ls
+ 2542  cp config_origin .config
+ 2543  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2544  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2545  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img -j4
+ 2546  make -j4  ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2547  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- modules_install INSTALL_MOD_PATH=/home/eki/Project/EMB_Project/rockchip/rk3399/modules
+ 2548  sudo dd if=boot.img of=/dev/sdc4
+ 2549  sudo rm -rf modules
+ 2550  ..
+ 2551  ls
+ 2552  cd modules
+ 2553  ls
+ 2554  cd lib
+ 2555  l
+ 2556  sudo cp -rf firmware modules '/media/eki/32f386ca-5de9-4cd8-b4f3-afbc9beae205/lib' 
+ 2557  sync
+ 2558  sudo minicom -s /dev/ttyUSB0
+ 2559  sudo chroot fs_debian_stretch
+ 2560  sudo mkfs.ext4 /dev/sdc5
+ 2561  sudo cp -rfp * /media/eki/70d6509e-a8cd-416d-8a95-d083c3947bb5
+ 2562  ..
+ 2563  ls
+ 2564  cd modules
+ 2565  ls
+ 2566  cd lib
+ 2567  ls
+ 2568  sudo cp -rf firmware modules '/media/eki/70d6509e-a8cd-416d-8a95-d083c3947bb5/lib/' 
+ 2569  sync
+ 2570  sudo minicom -s /dev/ttyUSB0
+ 2571  dd if=/dev/zero of=rootfs.img bs=1M count=800
+ 2572  mkfs.ext4 rootfs.img
+ 2573  sudo mount rootfs.img mount
+ 2574  sudo cp -rpf fs_debian_stretch/* mount
+ 2575  sudo cp -rf firmware modules ../../debian/rootfs/mount/lib/
+ 2576  sudo umount mount
+ 2577  ls
+ 2578  rm rootfs.img
+ 2579  dd if=/dev/zero of=rootfs.img bs=1M count=1500
+ 2580  mkfs.ext4 rootfs.img
+ 2581  sudo mount rootfs.img mount
+ 2582  sudo cp -rpf fs_debian_stretch/* mount
+ 2583  sync
+ 2584  sudo cp -rf firmware modules ../../debian/rootfs/mount/lib/
+ 2585  sync
+ 2586  sudo umount mount
+ 2587  resize2fs -P rootfs.img
+ 2588  resize2fs rootfs.img 390000
+ 2589  e2fsck -f rootfs.img
+ 2590  resize2fs -P rootfs.img
+ 2591  resize2fs rootfs.img 390000
+ 2592  ifconfig
+ 2593  ssh eki@192.168.5.1
+ 2594  clang
+ 2595  clang -arch
+ 2596  clang -arch arm64
+ 2597  ls
+ 2598  mkdir tmp
+ 2599  cd tmp
+ 2600  ls
+ 2601  vi main.c
+ 2602  clang -arch arm64 -o main main.c
+ 2603  clang -h
+ 2604  clang --help
+ 2605  apt search clang
+ 2606  ifconfig
+ 2607  ssh eki@192.168.5.1
+ 2608  dd if=/dev/zero of=rootfs.img bs=1M count=2000
+ 2609  mkdir mount
+ 2610  mkfs.ext4 rootfs.img
+ 2611  sudo mount rootfs.img mount
+ 2612  ls
+ 2613  sudo cp -rpf /media/eki/70d6509e-a8cd-416d-8a95-d083c3947bb5/* mount
+ 2614  sync
+ 2615  sudo umount mount
+ 2616  ssh eki@192.168.5.1
+ 2617  export DISPLAY=.0:0
+ 2618  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rockchip_defconfig
+ 2619  cp .config ../kernel_config kernel_config
+ 2620  cp .config ../kernel_config/kernel_config
+ 2621  cp kernel_config .config
+ 2622  git checkout -b build/nanopim4
+ 2623  make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2624  make -j4 ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2625  vi Makefile
+ 2626  make -j4 ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2627  make  ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2628  make -j4 ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2629  make  ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2630  make -j4 ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2631  make  ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2632  make -j4 ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2633  make  ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-friendlyarm-nanopi-m4.img
+ 2634  git checkout -f stable-4.4-rk3399-linux
+ 2635  make -j4  ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rk3399-nanopi4-rev01.img
+ 2636  sudo dd if=boot.img of=/dev/sdc4
+ 2637  sync
+ 2638  sudo minicom -s /dev/ttyUSB0
+ 2639  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2640  make CROSS_COMPILE=aarch64-linux-gnu-
+ 2641  ./make.sh uboot
+ 2642  sudo dd if=uboot.img of=/dev/sdc2
+ 2643  sync
+ 2644  make CROSS_COMPILE=aarch64-linux-gnu-
+ 2645  make CROSS_COMPILE=aarch64-linux-gnu- menuconfig
+ 2646  ls
+ 2647  sudo mount rootfs.img mount
+ 2648  sudo cp -rfp mount/* /media/eki/rootfs/
+ 2649  sync
+ 2650  sudo minicom -s /dev/ttyUSB0
+ 2651  ssh eki@192.168.5.1
+ 2652  ssh root@192.168.5.1
+ 2653  cd /media
+ 2654  cd eki
+ 2655  ls
+ 2656  ..
+ 2657  chroot rootfs
+ 2658  sudo chroot rootfs
+ 2659  ssh root@192.168.5.1
+ 2660  sudo vi sudoers
+ 2661  cd ..
+ 2662  sudo chroot rootfs
+ 2663  ls
+ 2664  cd rootfs
+ 2665  rm -rf *
+ 2666  sudo rm -rf *
+ 2667  sudo dd if=rootfs.img of=/dev/sdc5
+ 2668  sudo umount mount
+ 2669  sync
+ 2670  ls
+ 2671  ll
+ 2672  cd ..
+ 2673  sudo resize2fs /dev/sdc5
+ 2674  sudo e2fsck -f /dev/sdc5
+ 2675  sudo resize2fs /dev/sdc5
+ 2676  ssh root@192.168.5.1
+ 2677  ssh eki@192.168.5.1
+ 2678  vi /usr/include/linux/videodev2.h
+ 2679  vi Documentation/usb/mtouchusb.txt
+ 2680  vi Documentation/usb/gadget_configfs.txt
+ 2681  vi Documentation/video4linux/uvcvideo.txt
+ 2682  ssh eki@192.168.5.1
+ 2683  vi README
+ 2684  ./configure --help
+ 2685  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform aarch64-linux-gnu
+ 2686  cd qtbase/mkspecs
+ 2687  ls
+ 2688  cd linux-arm-gnueabi-g++
+ 2689  ls
+ 2690  vi qmake.conf
+ 2691  ls
+ 2692  vi qplatformdefs.h
+ 2693  ls
+ 2694  cd ..
+ 2695  ls
+ 2696  cp -r linux-arm-gnueabi-g++ linux-aarch64-gnu-g++
+ 2697  cd linux-aarch64-gnu-g++
+ 2698  ls
+ 2699  vi qmake.conf
+ 2700  ..
+ 2701  aarch64-linux-gnu-g++
+ 2702  apt search g++-aarch
+ 2703  sudo apt install g++-aarch64-linux-gnu 
+ 2704  aarch64-linux-gnu-g++
+ 2705  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform aarch64-linux-gnu
+ 2706  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform aarch64-linux-gnu-g++
+ 2707  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++
+ 2708  ./configure --help | grep ALSA
+ 2709  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies
+ 2710  ./configure clean
+ 2711  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies
+ 2712  ls
+ 2713  vi qt.pro
+ 2714  make clean
+ 2715  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies
+ 2716  ssh eki@192.168.5.1
+ 2717  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies -opengl es2
+ 2718  sudo apt install libgl2ps-dev
+ 2719  sudo apt remove libgl2ps-dev
+ 2720  sudo apt install libgles2
+ 2721  sudo apt install libgles2-mesa-dev
+ 2722  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies -opengl es2
+ 2723  dpkg -L libgles2
+ 2724  dpkg -L libgles2-mesa-dev
+ 2725  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies -opengl es2 QMAKE_INCDIR_OPENGL_ES2=/usr/include/GLES2 QMAKE_LIBDIR_OPENGL_ES2=/usr/lib/x86_64-linux-gnu
+ 2726  QMAKE_INCDIR_OPENGL_ES2=/usr/include/GLES2 QMAKE_LIBDIR_OPENGL_ES2=/usr/lib/x86_64-linux-gnu ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -kms -system-proxies -opengl es2
+ 2727  sudo apt remove libgles2-mesa-dev
+ 2728  sudo apt autoremove
+ 2729  ./configure -prefix '/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5/build' -release -c++11 -xplatform linux-aarch64-gnu-g++ -directfb -xcb -system-proxies
+ 2730  ls
+ 2731  sls
+ 2732  sl
+ 2733  ls
+ 2734  l
+ 2735  ls
+ 2736  ssh eki@192.168.5.1
+ 2737  sudo apt install qt5-qmake
+ 2738  sudo apt install qt5-default
+ 2739  qmake
+ 2740  ssh eki@192.168.5.1
+ 2741  ./Arm64Demo
+ 2742  sudo minicom -s
+ 2743  sudo minicom -s /dev/ttyUSB0
+ 2744  vi gpt
+ 2745  gdisk gpt.img
+ 2746  gdisk sd_boot.img
+ 2747  gdisk sd_gpt.img
+ 2748  history
+ 2749  ..
+ 2750  ls
+ 2751  cd rk3399
+ 2752  ls
+ 2753  cd bsp_self
+ 2754  l
+ 2755  mkdir documents
+ 2756  cd documents
+ 2757  l
