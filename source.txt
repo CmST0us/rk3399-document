@@ -64,7 +64,7 @@ export QTDIR=/opt/usr/lib/qt5
 export QT_QPA_FONTDIR=/usr/share/fonts/truetype/dejavu/
 export QT_QPA_PLATFORM_PLUGIN_PATH=$QTDIR/plugins
 export QT_QPA_PLATFORM=linuxfb:fb=/dev/fb0:size=320x240:mmSize=320x240:offset=0x0:tty=/dev/tty1
-
+export QWS_MOUSE_PROTO="MouseMan:/dev/input/mouse0"
 ```
 
 这样就完成了Qt环境的配置
