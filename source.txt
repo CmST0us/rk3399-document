@@ -34,3 +34,39 @@ Number  Start (sector)    End (sector)  Size       Code  Name
 另外设备树设置参考其中的nanopi-recv01.dts
 
 
+# Qt
+
+下载Qt5.9
+使用编译参数
+```
+./configure --prefix='/home/eki/Project/EMB_Project/rockchip/rk3399/qt-5.9/build' -linuxfb -no-opengl -xplatform linux-aarch64-gnu-g++
+
+```
+
+编译完成后，主机QtCreateor添加目标qmake，注意保持qmake路径和编译时一直，如果需要移动参考
+
+qt.conf
+```
+[Paths]
+Prefix = </path/to/qt/prefix>
+
+```
+
+然后将编译好的qt，除了bin之外的文件夹拷贝到设备中。
+在ld.so.conf 中添加动态库搜索路径
+先运行一次ldconfig -v 这时候会提示软连接不正确，ln -sf 重新链接一次
+
+方便起见，安装字体fonts-dejavu
+
+最后在系统环境变量中添加
+```
+export QTDIR=/opt/usr/lib/qt5
+export QT_QPA_FONTDIR=/usr/share/fonts/truetype/dejavu/
+export QT_QPA_PLATFORM_PLUGIN_PATH=$QTDIR/plugins
+export QT_QPA_PLATFORM=linuxfb:fb=/dev/fb0:size=320x240:mmSize=320x240:offset=0x0:tty=/dev/tty1
+
+```
+
+这样就完成了Qt环境的配置
+
+
