@@ -27,3 +27,10 @@ Number  Start (sector)    End (sector)  Size       Code  Name
 # bootarg
 
 修改bootarg rootfs 为启动分区
+
+# ili9341 驱动
+参考kernel-rockchip 分支develop/fix_ili9341
+需要关闭fbtft-core.c 的dma
+另外设备树设置参考其中的nanopi-recv01.dts
+
+
